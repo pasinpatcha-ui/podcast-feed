@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>สรุปหนังสือ</title>
+    <description>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</description>
+    <language>th</language>
+    <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
+    <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 13 Aug 2026 16:09:48 GMT</lastBuildDate>
+    <generator>podcast-automation</generator>
+    <itunes:author>สรุปหนังสือ</itunes:author>
+    <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <item>
+      <title>ATOMIC HABITS เพราะชีวิตดีได้กว่าที่เป็น</title>
+      <description>สวัสดีครับ ยินดีต้อนรับเข้าสู่รายการสรุปหนังสืออีกครั้งนะครับ วันนี้ผมจะพาคุณไปรู้จักกับหนังสือที่ผมคิดว่าหลายคนน่าจะเคยได้ยินชื่อผ่านหูมาบ้าง นั่นคือ Atomic Habits เพราะชีวิตดีได้กว่าที่เป็น เขียนโดย James Clear แปลไทยโดยคุณประพาฬรัตน์ ยงมานิตชัย จัดพิมพ์โดยสำนักพิมพ์ Change+ ในเครือซีเอ็ด หนังสือเล่มนี้มีคำโปรยภาษาอังกฤษกำกับไว้ว่า Tiny Changes, Remarkable Results ซึ่งพอแปลเป็นไทยก็คือการเปลี่ยนแปลงเล็ก ๆ ที่ให้ผลลัพธ์ที่น่าทึ่งครับ</description>
+      <link>https://summaread.net/behaviour-economics/atomic-habits-james-clear/</link>
+      <pubDate>Thu, 13 Aug 2026 16:09:48 GMT</pubDate>
+      <guid isPermaLink="false">1qYXZfHA8Hd9CCZQTs8KnW8RcQlY-oSEH</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qYXZfHA8Hd9CCZQTs8KnW8RcQlY-oSEH" length="7333152" type="audio/mpeg"/>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:title>ATOMIC HABITS เพราะชีวิตดีได้กว่าที่เป็น</itunes:title>
+      <itunes:summary>สวัสดีครับ ยินดีต้อนรับเข้าสู่รายการสรุปหนังสืออีกครั้งนะครับ วันนี้ผมจะพาคุณไปรู้จักกับหนังสือที่ผมคิดว่าหลายคนน่าจะเคยได้ยินชื่อผ่านหูมาบ้าง นั่นคือ Atomic Habits เพราะชีวิตดีได้กว่าที่เป็น เขียนโดย James Clear แปลไทยโดยคุณประพาฬรัตน์ ยงมานิตชัย จัดพิมพ์โดยสำนักพิมพ์ Change+ ในเครือซีเอ็ด หนังสือเล่มนี้มีคำโปรยภาษาอังกฤษกำกับไว้ว่า Tiny Changes, Remarkable Results ซึ่งพอแปลเป็นไทยก็คือการเปลี่ยนแปลงเล็ก ๆ ที่ให้ผลลัพธ์ที่น่าทึ่งครับ</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2020/09/118306829_1206881019646892_4817874748730275594_n-1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
