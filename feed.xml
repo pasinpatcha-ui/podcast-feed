@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 18:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:47:18 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>52 วิธีคิดให้ได้อย่างเฉียบคม The Art of Thinking Clearly</title>
+      <description>เคยไหมครับ เวลาเถียงกับใครสักคน แล้วต่างฝ่ายต่างมั่นใจเต็มร้อยว่าตัวเองถูก พอจบบทสนทนาเดินออกมาก็ยังคิดอยู่ในใจว่าอีกฝ่ายไม่ยอมเข้าใจอะไรเลยสักนิด ทั้งที่ตอนนั้นเขาก็กำลังคิดกับเราแบบเดียวกันเป๊ะ</description>
+      <link>https://summaread.net/marketing/the-art-of-thinking-clearly/</link>
+      <pubDate>Fri, 14 Aug 2026 18:47:18 GMT</pubDate>
+      <guid isPermaLink="false">1-c5dr3vkPwvW3vdiuL8mcH3Lm4klBlOr</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-c5dr3vkPwvW3vdiuL8mcH3Lm4klBlOr" length="5043552" type="audio/mpeg"/>
+      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:title>52 วิธีคิดให้ได้อย่างเฉียบคม The Art of Thinking Clearly</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเถียงกับใครสักคน แล้วต่างฝ่ายต่างมั่นใจเต็มร้อยว่าตัวเองถูก พอจบบทสนทนาเดินออกมาก็ยังคิดอยู่ในใจว่าอีกฝ่ายไม่ยอมเข้าใจอะไรเลยสักนิด ทั้งที่ตอนนั้นเขาก็กำลังคิดกับเราแบบเดียวกันเป๊ะ</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/02/26815020_10155993688195987_2672629473332176159_n-copy.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>51 วิธีคิดของลูกน้องที่หัวหน้าอยากสนับสนุน</title>
       <description>เคยไหมครับ เวลาหัวหน้าโยนงานที่ยากที่สุดในทีมมาให้ แล้วแอบคิดในใจว่าทำไมต้องเป็นเรา เขาไม่ชอบเราหรือเปล่า วันนี้จะเล่าหนังสือที่บอกว่าความคิดแบบนั้นแหละ อาจกำลังทำให้พลาดโอกาสดี ๆ ไปโดยไม่รู้ตัว</description>
