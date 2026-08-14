@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 23:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:42:00 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>ขาย 100 คน ซื้อ 99 คน</title>
+      <description>เคยไหมครับ เวลาอยากให้ใครสักคนเออออด้วยกับเรื่องที่เสนอไป ทั้งที่รู้อยู่เต็มอกว่ามันดีกับเขาจริง ๆ แต่พูดยังไงเขาก็ไม่เอา สุดท้ายก็ถอยออกมาเงียบ ๆ แล้วบอกตัวเองว่าไม่เป็นไร คงไม่ถูกจริตกัน</description>
+      <link>https://summaread.net/japan/sell100buy99/</link>
+      <pubDate>Fri, 14 Aug 2026 23:42:00 GMT</pubDate>
+      <guid isPermaLink="false">1BqVp7FXTKMuf6cjjM-I3UkzsuBJLt9zl</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BqVp7FXTKMuf6cjjM-I3UkzsuBJLt9zl" length="5106240" type="audio/mpeg"/>
+      <itunes:duration>00:21:17</itunes:duration>
+      <itunes:title>ขาย 100 คน ซื้อ 99 คน</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาอยากให้ใครสักคนเออออด้วยกับเรื่องที่เสนอไป ทั้งที่รู้อยู่เต็มอกว่ามันดีกับเขาจริง ๆ แต่พูดยังไงเขาก็ไม่เอา สุดท้ายก็ถอยออกมาเงียบ ๆ แล้วบอกตัวเองว่าไม่เป็นไร คงไม่ถูกจริตกัน</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/01/23795696_10155819380240987_5305253455918846842_n.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ขยับแค่ 1 องศา ปัญหาก็หายไปครึ่งหนึ่ง The Obstacle is the Way</title>
       <description>เคยไหมครับ เวลาเพื่อนเดินมาเล่าปัญหาให้ฟัง ยังฟังไม่ทันจบดีก็มองออกแล้วว่าควรทำยังไง ตอบได้ทันทีแบบไม่ต้องคิดนาน แต่พอเรื่องคล้าย ๆ กันเกิดขึ้นกับตัวเอง กลับนอนตาค้างทั้งคืน คิดวนไปวนมาแล้วก็ยังมองไม่เห็นทางออกสักทาง</description>
