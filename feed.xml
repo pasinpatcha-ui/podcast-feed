@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 19:30:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:45:21 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>8 สิ่งที่คนเก่งมากๆ มีร่วมกัน Parin Talk</title>
+      <description>เคยไหมครับ เวลานั่งประชุมอยู่ดีๆ แล้วมีคนคนหนึ่งพูดขึ้นมาแค่สองสามประโยค ทั้งห้องเงียบ เพราะเรื่องที่คุยวนกันมาเป็นชั่วโมง เขาสรุปจบได้ในไม่กี่คำ แล้วก็อดสงสัยไม่ได้ว่าคนแบบนี้เขาต่างจากคนอื่นตรงไหนกันแน่</description>
+      <link>https://summaread.net/career/8-%e0%b8%aa%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%87%e0%b8%a1%e0%b8%b2%e0%b8%81%e0%b9%86-%e0%b8%a1%e0%b8%b5%e0%b8%a3%e0%b9%88/</link>
+      <pubDate>Fri, 14 Aug 2026 19:45:21 GMT</pubDate>
+      <guid isPermaLink="false">1ll_9wDY_gf1V9SfAlp0lhtPp6kspP3AR</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ll_9wDY_gf1V9SfAlp0lhtPp6kspP3AR" length="5934720" type="audio/mpeg"/>
+      <itunes:duration>00:24:44</itunes:duration>
+      <itunes:title>8 สิ่งที่คนเก่งมากๆ มีร่วมกัน Parin Talk</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลานั่งประชุมอยู่ดีๆ แล้วมีคนคนหนึ่งพูดขึ้นมาแค่สองสามประโยค ทั้งห้องเงียบ เพราะเรื่องที่คุยวนกันมาเป็นชั่วโมง เขาสรุปจบได้ในไม่กี่คำ แล้วก็อดสงสัยไม่ได้ว่าคนแบบนี้เขาต่างจากคนอื่นตรงไหนกันแน่</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2021/12/%E0%B9%81%E0%B8%9B%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87-scaled.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>86 วิชาเพิ่มยอดเว็บไซต์ด้วย Google Analytics และ Search Console</title>
       <description>เคยไหมครับ เปิด Google Analytics ของเว็บตัวเองขึ้นมา เห็นกราฟเต็มหน้าจอ ตัวเลขเยอะไปหมด แล้วก็เลื่อนดูอยู่อย่างเดียวว่าวันนี้มีคนเข้ากี่คน หน้าไหนคนอ่านเยอะ จากนั้นก็ปิดไป วันรุ่งขึ้นก็ทำแบบเดิม</description>
