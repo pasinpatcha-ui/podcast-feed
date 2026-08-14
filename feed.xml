@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 16:32:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:50:26 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>21 Lessons for the 21st Century 21 บทเรียนสำหรับศตวรรษที่ 21</title>
+      <description>เคยรู้สึกไหมครับ ว่าอ่านข่าวตอนเช้าจบแล้วรู้สึกเหนื่อยแทนตัวเอง โลกมันเปลี่ยนเร็วจนตามไม่ทัน แล้วก็แอบสงสัยอยู่ในใจว่าอีกยี่สิบปีข้างหน้าตัวเองจะยังมีที่ยืนอยู่ตรงไหน วันนี้จะเล่าหนังสือชื่อ 21 Lessons for the 21st Century หรือชื่อไทยว่า 21 บทเรียนสำหรับศตวรรษที่ 21 ครับ</description>
+      <link>https://summaread.net/trend/21-lessons-for-the-21st-century/</link>
+      <pubDate>Fri, 14 Aug 2026 16:50:26 GMT</pubDate>
+      <guid isPermaLink="false">1hQfPQsePF15jBaWgJleBQ_Z8CBgW08C-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hQfPQsePF15jBaWgJleBQ_Z8CBgW08C-" length="6600864" type="audio/mpeg"/>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:title>21 Lessons for the 21st Century 21 บทเรียนสำหรับศตวรรษที่ 21</itunes:title>
+      <itunes:summary>เคยรู้สึกไหมครับ ว่าอ่านข่าวตอนเช้าจบแล้วรู้สึกเหนื่อยแทนตัวเอง โลกมันเปลี่ยนเร็วจนตามไม่ทัน แล้วก็แอบสงสัยอยู่ในใจว่าอีกยี่สิบปีข้างหน้าตัวเองจะยังมีที่ยืนอยู่ตรงไหน วันนี้จะเล่าหนังสือชื่อ 21 Lessons for the 21st Century หรือชื่อไทยว่า 21 บทเรียนสำหรับศตวรรษที่ 21 ครับ</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/04/34E1D410-C3BA-4B7E-AEDD-9FE190F07376-1024x768.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>1984 George Orwell</title>
       <description>เคยไหมครับ เวลาพิมพ์ค้นหาอะไรสักอย่างในมือถือ แล้วอีกไม่กี่นาทีต่อมา โฆษณาเรื่องนั้นก็โผล่ขึ้นมาเต็มหน้าจอ เหมือนมีใครสักคนนั่งดูอยู่ข้าง ๆ ตลอดเวลาโดยที่ไม่เคยรู้ตัว</description>
