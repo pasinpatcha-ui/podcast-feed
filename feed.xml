@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 21:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:28:53 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>การเงินคนจน The Poor and Their Money</title>
+      <description>เคยได้ยินประโยคนี้ไหมครับ ที่คนจนยังจนอยู่ทุกวันนี้ก็เพราะเก็บเงินไม่เป็น ใช้เงินไม่เป็น ถ้ารู้จักออมสักหน่อยชีวิตคงดีกว่านี้ ฟังบ่อยจนเกือบจะเชื่อไปแล้วว่ามันจริง</description>
+      <link>https://summaread.net/economy/the-poor-and-their-money-%e0%b9%80%e0%b8%87%e0%b8%b4%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%a5%e0%b9%89%e0%b8%ad/</link>
+      <pubDate>Fri, 14 Aug 2026 21:28:53 GMT</pubDate>
+      <guid isPermaLink="false">1-w7Dl2ieRIp7P9UdBm1qRpyragyWkg8d</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-w7Dl2ieRIp7P9UdBm1qRpyragyWkg8d" length="5236128" type="audio/mpeg"/>
+      <itunes:duration>00:21:49</itunes:duration>
+      <itunes:title>การเงินคนจน The Poor and Their Money</itunes:title>
+      <itunes:summary>เคยได้ยินประโยคนี้ไหมครับ ที่คนจนยังจนอยู่ทุกวันนี้ก็เพราะเก็บเงินไม่เป็น ใช้เงินไม่เป็น ถ้ารู้จักออมสักหน่อยชีวิตคงดีกว่านี้ ฟังบ่อยจนเกือบจะเชื่อไปแล้วว่ามันจริง</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2020/11/5CAF732F-89F8-4F34-B1DC-7B618F9A6F54-scaled.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>กลยุทธ์โน้มน้าวและจูงใจคน Influence The Psychology of Persuasion</title>
       <description>เคยไหมครับ เดินเข้าห้างโดยไม่ได้ตั้งใจจะซื้ออะไรเลย แล้วมีคนยื่นของให้ชิมชิ้นหนึ่ง สุดท้ายเดินออกมาพร้อมถุงในมือ แล้วก็งงกับตัวเองว่าตกลงตัดสินใจตอนไหน</description>
