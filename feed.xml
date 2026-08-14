@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 19:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:01:55 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>99เรื่องต้องรู้ก่อนมีบ้าน</title>
+      <description>หิ้วถุงกับข้าวมาเต็มสองมือ ยืนอยู่หน้าประตูบ้าน แล้วต้องวางของลงกับพื้นก่อน เพื่อจะเอามือไปบิดลูกบิด เคยไหมครับ ตอนนั้นคงไม่มีใครนึกหรอกว่า ความหงุดหงิดเล็ก ๆ ตรงนั้นมันย้อนกลับไปที่การเลือกอุปกรณ์ชิ้นเดียวตั้งแต่วันที่บ้านยังสร้างไม่เสร็จ</description>
+      <link>https://summaread.net/interior/99thingshomeownershouldknow/</link>
+      <pubDate>Fri, 14 Aug 2026 20:01:55 GMT</pubDate>
+      <guid isPermaLink="false">1MklNu6EJFOmIzc90AxLAUs57I4US-8Xx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MklNu6EJFOmIzc90AxLAUs57I4US-8Xx" length="6248160" type="audio/mpeg"/>
+      <itunes:duration>00:26:02</itunes:duration>
+      <itunes:title>99เรื่องต้องรู้ก่อนมีบ้าน</itunes:title>
+      <itunes:summary>หิ้วถุงกับข้าวมาเต็มสองมือ ยืนอยู่หน้าประตูบ้าน แล้วต้องวางของลงกับพื้นก่อน เพื่อจะเอามือไปบิดลูกบิด เคยไหมครับ ตอนนั้นคงไม่มีใครนึกหรอกว่า ความหงุดหงิดเล็ก ๆ ตรงนั้นมันย้อนกลับไปที่การเลือกอุปกรณ์ชิ้นเดียวตั้งแต่วันที่บ้านยังสร้างไม่เสร็จ</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/01/24294049_10155853946735987_8654401002740422286_n.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>8 สิ่งที่คนเก่งมากๆ มีร่วมกัน Parin Talk</title>
       <description>เคยไหมครับ เวลานั่งประชุมอยู่ดีๆ แล้วมีคนคนหนึ่งพูดขึ้นมาแค่สองสามประโยค ทั้งห้องเงียบ เพราะเรื่องที่คุยวนกันมาเป็นชั่วโมง เขาสรุปจบได้ในไม่กี่คำ แล้วก็อดสงสัยไม่ได้ว่าคนแบบนี้เขาต่างจากคนอื่นตรงไหนกันแน่</description>
