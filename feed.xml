@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 20:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:29:52 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>กรอบที่ไม่มีเส้น ฟาสต์ฟู้ดธุรกิจ 20</title>
+      <description>เคยลองนับไหมครับว่าในหัวมีเส้นกี่เส้นที่ขีดไว้เองว่าชีวิตที่สำเร็จต้องมีบ้าน มีรถ มีครอบครัว มีเงินเก็บไว้ตอนเกษียณสักสองสามล้าน ทั้งที่ปากก็บอกตลอดว่าไม่อยากใช้ชีวิตแบบมีกรอบ แต่พอเงยหน้าขึ้นมาก็ยืนอยู่ในกรอบที่ตัวเองขีดมาตั้งนานแล้ว</description>
+      <link>https://summaread.net/marketing/fastfood-business-20/</link>
+      <pubDate>Fri, 14 Aug 2026 20:29:52 GMT</pubDate>
+      <guid isPermaLink="false">1z1B6wHVSe5A3FMtJ2_1ZKcn6uL7XMsFe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z1B6wHVSe5A3FMtJ2_1ZKcn6uL7XMsFe" length="5527104" type="audio/mpeg"/>
+      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:title>กรอบที่ไม่มีเส้น ฟาสต์ฟู้ดธุรกิจ 20</itunes:title>
+      <itunes:summary>เคยลองนับไหมครับว่าในหัวมีเส้นกี่เส้นที่ขีดไว้เองว่าชีวิตที่สำเร็จต้องมีบ้าน มีรถ มีครอบครัว มีเงินเก็บไว้ตอนเกษียณสักสองสามล้าน ทั้งที่ปากก็บอกตลอดว่าไม่อยากใช้ชีวิตแบบมีกรอบ แต่พอเงยหน้าขึ้นมาก็ยืนอยู่ในกรอบที่ตัวเองขีดมาตั้งนานแล้ว</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/04/33676915_10156352496230987_6541993236355874816_n-copy.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>กฏ 26 ข้อ สู่การเป็นร้านยอดนิยม</title>
       <description>เคยไหมครับ ทำเองแทบทุกอย่าง อยู่หน้าร้านตั้งแต่เช้ายันดึก แต่ยอดก็ไม่ขยับสักที แล้วลูกค้าที่เคยมาบ่อย ๆ ก็หายไปเงียบ ๆ โดยไม่มีใครรู้เลยว่าหายไปเพราะอะไร</description>
