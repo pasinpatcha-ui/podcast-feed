@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 19:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:18:05 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>5 เลเวลการใช้ Data-Driven Marketing จากหนังสือ Data-First Marketing</title>
+      <description>เคยไหมครับ ประชุมอยู่ดี ๆ แล้วผู้บริหารถามขึ้นมาว่า งบที่ยิงแอดไปเดือนที่แล้ว สรุปแล้วกลับมาเป็นยอดขายเท่าไหร่ แล้วในห้องนั้นเงียบ มีแต่ตัวเลข reach ตัวเลข engagement เต็มหน้าจอ แต่ไม่มีใครตอบคำถามนั้นได้จริง ๆ สักคน</description>
+      <link>https://summaread.net/big-data/data-first-marketing-5-level-data-driven-marketing-in-your-organization/</link>
+      <pubDate>Fri, 14 Aug 2026 19:18:05 GMT</pubDate>
+      <guid isPermaLink="false">1YQId_TL_PbL_cEEudKDBFfW-cB-i5xvV</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YQId_TL_PbL_cEEudKDBFfW-cB-i5xvV" length="5843520" type="audio/mpeg"/>
+      <itunes:duration>00:24:21</itunes:duration>
+      <itunes:title>5 เลเวลการใช้ Data-Driven Marketing จากหนังสือ Data-First Marketing</itunes:title>
+      <itunes:summary>เคยไหมครับ ประชุมอยู่ดี ๆ แล้วผู้บริหารถามขึ้นมาว่า งบที่ยิงแอดไปเดือนที่แล้ว สรุปแล้วกลับมาเป็นยอดขายเท่าไหร่ แล้วในห้องนั้นเงียบ มีแต่ตัวเลข reach ตัวเลข engagement เต็มหน้าจอ แต่ไม่มีใครตอบคำถามนั้นได้จริง ๆ สักคน</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2021/10/Data-First-Marketing-1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>5 เครื่องมือสำคัญในการบริหารร้านให้ประสบความสำเร็จ</title>
       <description>ลองนึกภาพร้านอาหารร้านหนึ่งตอนเที่ยง คนหน้าร้านกับคนในครัวเหน็บกันไปมาเสียงดังจนลูกค้าที่นั่งอยู่ได้ยินหมดทุกคำ แล้วเจ้าของร้านก็ได้แต่ยืนมองอยู่ตรงนั้น ไม่รู้ว่าจะเริ่มแก้ตรงไหนดี</description>
