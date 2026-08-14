@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 21:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:43:38 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>การเดินทางของ มาร์โค โปโล The Travels of Marco Polo</title>
+      <description>เคยไหมครับ เล่าเรื่องที่เจอมากับตาให้คนอื่นฟัง แล้วคนฟังหัวเราะใส่ บอกว่าโม้เกินไปแล้ว มีชายคนหนึ่งเจอแบบนั้น แล้วต้องรอจนตายไปหลายร้อยปี โลกถึงยอมรับว่าเขาพูดความจริงมาตลอด</description>
+      <link>https://summaread.net/history/the-travels-of-marco-polo/</link>
+      <pubDate>Fri, 14 Aug 2026 21:43:38 GMT</pubDate>
+      <guid isPermaLink="false">1rHFaNPMpE7ZE9X6kB1I209RLvQdu5kX0</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rHFaNPMpE7ZE9X6kB1I209RLvQdu5kX0" length="5635776" type="audio/mpeg"/>
+      <itunes:duration>00:23:29</itunes:duration>
+      <itunes:title>การเดินทางของ มาร์โค โปโล The Travels of Marco Polo</itunes:title>
+      <itunes:summary>เคยไหมครับ เล่าเรื่องที่เจอมากับตาให้คนอื่นฟัง แล้วคนฟังหัวเราะใส่ บอกว่าโม้เกินไปแล้ว มีชายคนหนึ่งเจอแบบนั้น แล้วต้องรอจนตายไปหลายร้อยปี โลกถึงยอมรับว่าเขาพูดความจริงมาตลอด</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/09/39056449_688857711449228_1940712897189511168_n.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>การเงินคนจน The Poor and Their Money</title>
       <description>เคยได้ยินประโยคนี้ไหมครับ ที่คนจนยังจนอยู่ทุกวันนี้ก็เพราะเก็บเงินไม่เป็น ใช้เงินไม่เป็น ถ้ารู้จักออมสักหน่อยชีวิตคงดีกว่านี้ ฟังบ่อยจนเกือบจะเชื่อไปแล้วว่ามันจริง</description>
