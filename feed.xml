@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 19:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:30:08 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>86 วิชาเพิ่มยอดเว็บไซต์ด้วย Google Analytics และ Search Console</title>
+      <description>เคยไหมครับ เปิด Google Analytics ของเว็บตัวเองขึ้นมา เห็นกราฟเต็มหน้าจอ ตัวเลขเยอะไปหมด แล้วก็เลื่อนดูอยู่อย่างเดียวว่าวันนี้มีคนเข้ากี่คน หน้าไหนคนอ่านเยอะ จากนั้นก็ปิดไป วันรุ่งขึ้นก็ทำแบบเดิม</description>
+      <link>https://summaread.net/digital/google-analytics-search-console-joe-anucha/</link>
+      <pubDate>Fri, 14 Aug 2026 19:30:08 GMT</pubDate>
+      <guid isPermaLink="false">1BnFLs3-lVdPvusjA_MmOgI5mRsrvHvkz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BnFLs3-lVdPvusjA_MmOgI5mRsrvHvkz" length="3922656" type="audio/mpeg"/>
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:title>86 วิชาเพิ่มยอดเว็บไซต์ด้วย Google Analytics และ Search Console</itunes:title>
+      <itunes:summary>เคยไหมครับ เปิด Google Analytics ของเว็บตัวเองขึ้นมา เห็นกราฟเต็มหน้าจอ ตัวเลขเยอะไปหมด แล้วก็เลื่อนดูอยู่อย่างเดียวว่าวันนี้มีคนเข้ากี่คน หน้าไหนคนอ่านเยอะ จากนั้นก็ปิดไป วันรุ่งขึ้นก็ทำแบบเดิม</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/11/IMG_0622-scaled.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>5 เลเวลการใช้ Data-Driven Marketing จากหนังสือ Data-First Marketing</title>
       <description>เคยไหมครับ ประชุมอยู่ดี ๆ แล้วผู้บริหารถามขึ้นมาว่า งบที่ยิงแอดไปเดือนที่แล้ว สรุปแล้วกลับมาเป็นยอดขายเท่าไหร่ แล้วในห้องนั้นเงียบ มีแต่ตัวเลข reach ตัวเลข engagement เต็มหน้าจอ แต่ไม่มีใครตอบคำถามนั้นได้จริง ๆ สักคน</description>
