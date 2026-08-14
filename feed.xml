@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 22:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:29:10 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>การเมืองเรื่องพระพุทธรูป</title>
+      <description>เคยไหมครับ เวลาเดินเข้าวัดสักแห่งแล้วเห็นพระพุทธรูปเรียงกันเต็มระเบียงเป็นร้อยเป็นพันองค์ พอไปอีกวัดหนึ่งกลับมีอยู่องค์เดียวโดดๆ อยู่ในโบสถ์ เคยสงสัยไหมว่าความต่างตรงนี้มันมาจากอะไร</description>
+      <link>https://summaread.net/history/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%9e%e0%b8%b8%e0%b8%97%e0%b8%98%e0%b8%a3/</link>
+      <pubDate>Fri, 14 Aug 2026 22:29:10 GMT</pubDate>
+      <guid isPermaLink="false">1k3CxDVmfvJpzVhC1gOv7JdXy9OXgoQxy</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k3CxDVmfvJpzVhC1gOv7JdXy9OXgoQxy" length="4958784" type="audio/mpeg"/>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:title>การเมืองเรื่องพระพุทธรูป</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเดินเข้าวัดสักแห่งแล้วเห็นพระพุทธรูปเรียงกันเต็มระเบียงเป็นร้อยเป็นพันองค์ พอไปอีกวัดหนึ่งกลับมีอยู่องค์เดียวโดดๆ อยู่ในโบสถ์ เคยสงสัยไหมว่าความต่างตรงนี้มันมาจากอะไร</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/03/29793841_10156223498430987_3477694831285764096_n-copy.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>การปฏิวัติอุตสาหกรรมครั้งที่ 4, The Fourth Industrial Revolution</title>
       <description>เคยไหมครับ นั่งทำงานอยู่ดี ๆ แล้วมีความคิดแวบเข้ามาว่า งานที่ทำอยู่ทุกวันนี้ อีกสิบปีข้างหน้าจะยังมีอยู่ไหม หรือจะมีอะไรบางอย่างมาทำแทนได้หมดแล้ว ถ้าเคยคิดแบบนั้น หนังสือที่จะเล่าให้ฟังวันนี้พูดถึงเรื่องนี้ตรง ๆ เลย ชื่อว่า การปฏิวัติอุตสาหกรรมครั้งที่ 4 หรือ The Fourth Industrial Revolution เขียนโดย Klaus Schwab แปลไทยโดยคุณศรรวริศา เมฆไพบูลย์ สำนักพิมพ์ Amarin How-To</description>
