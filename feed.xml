@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 23:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:28:49 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>ขยับแค่ 1 องศา ปัญหาก็หายไปครึ่งหนึ่ง The Obstacle is the Way</title>
+      <description>เคยไหมครับ เวลาเพื่อนเดินมาเล่าปัญหาให้ฟัง ยังฟังไม่ทันจบดีก็มองออกแล้วว่าควรทำยังไง ตอบได้ทันทีแบบไม่ต้องคิดนาน แต่พอเรื่องคล้าย ๆ กันเกิดขึ้นกับตัวเอง กลับนอนตาค้างทั้งคืน คิดวนไปวนมาแล้วก็ยังมองไม่เห็นทางออกสักทาง</description>
+      <link>https://summaread.net/moltivation/%e0%b8%aa%e0%b8%a3%e0%b8%b8%e0%b8%9b%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad-%e0%b8%82%e0%b8%a2%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b9%88-1-%e0%b8%ad%e0%b8%87%e0%b8%a8/</link>
+      <pubDate>Fri, 14 Aug 2026 23:28:49 GMT</pubDate>
+      <guid isPermaLink="false">1sblyL3xrlBi_-qQEUjwsqLvRIExRMQwR</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sblyL3xrlBi_-qQEUjwsqLvRIExRMQwR" length="4866336" type="audio/mpeg"/>
+      <itunes:duration>00:20:17</itunes:duration>
+      <itunes:title>ขยับแค่ 1 องศา ปัญหาก็หายไปครึ่งหนึ่ง The Obstacle is the Way</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเพื่อนเดินมาเล่าปัญหาให้ฟัง ยังฟังไม่ทันจบดีก็มองออกแล้วว่าควรทำยังไง ตอบได้ทันทีแบบไม่ต้องคิดนาน แต่พอเรื่องคล้าย ๆ กันเกิดขึ้นกับตัวเอง กลับนอนตาค้างทั้งคืน คิดวนไปวนมาแล้วก็ยังมองไม่เห็นทางออกสักทาง</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/08/41388418_709690999365899_6681953533199122432_n.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ขโมยความคิดญี่ปุ่น Steal Japan’s IDEA</title>
       <description>ถ้าเดินไปถามคนรอบตัวตอนนี้ว่า ประเทศไหนในโลกที่ดูมีความคิดสร้างสรรค์ที่สุด คำตอบที่น่าจะได้ยินบ่อยที่สุดคือญี่ปุ่นครับ แทบไม่ต้องคิดนาน ชื่อนี้ผุดขึ้นมาก่อนเลย</description>
