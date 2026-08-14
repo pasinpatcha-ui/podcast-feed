@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 22:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:15:10 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>ขโมยความคิดญี่ปุ่น Steal Japan’s IDEA</title>
+      <description>ถ้าเดินไปถามคนรอบตัวตอนนี้ว่า ประเทศไหนในโลกที่ดูมีความคิดสร้างสรรค์ที่สุด คำตอบที่น่าจะได้ยินบ่อยที่สุดคือญี่ปุ่นครับ แทบไม่ต้องคิดนาน ชื่อนี้ผุดขึ้นมาก่อนเลย</description>
+      <link>https://summaread.net/marketing/steal-japans-idea/</link>
+      <pubDate>Fri, 14 Aug 2026 23:15:10 GMT</pubDate>
+      <guid isPermaLink="false">1DB1sisB7LWOtmQtCETbJVuNSnMo1NzRK</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DB1sisB7LWOtmQtCETbJVuNSnMo1NzRK" length="5269248" type="audio/mpeg"/>
+      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:title>ขโมยความคิดญี่ปุ่น Steal Japan’s IDEA</itunes:title>
+      <itunes:summary>ถ้าเดินไปถามคนรอบตัวตอนนี้ว่า ประเทศไหนในโลกที่ดูมีความคิดสร้างสรรค์ที่สุด คำตอบที่น่าจะได้ยินบ่อยที่สุดคือญี่ปุ่นครับ แทบไม่ต้องคิดนาน ชื่อนี้ผุดขึ้นมาก่อนเลย</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/04/31841638_10156293853455987_8646483935305400320_n-copy.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>กิน หลับ ขยับตัว, Eat Move Sleep</title>
       <description>เคยไหมครับ เวลาไปตรวจสุขภาพประจำปีแล้วมีตัวเลขสักตัวขึ้นแดงมา กลับบ้านมาก็ตั้งใจเต็มร้อยว่าเดือนนี้จะเปลี่ยนชีวิต ผ่านไปสองอาทิตย์ทุกอย่างก็กลับไปเหมือนเดิม</description>
