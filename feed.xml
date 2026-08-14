@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 18:26:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:42:23 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>51 วิธีคิดของลูกน้องที่หัวหน้าอยากสนับสนุน</title>
+      <description>เคยไหมครับ เวลาหัวหน้าโยนงานที่ยากที่สุดในทีมมาให้ แล้วแอบคิดในใจว่าทำไมต้องเป็นเรา เขาไม่ชอบเราหรือเปล่า วันนี้จะเล่าหนังสือที่บอกว่าความคิดแบบนั้นแหละ อาจกำลังทำให้พลาดโอกาสดี ๆ ไปโดยไม่รู้ตัว</description>
+      <link>https://summaread.net/we-learn/51-way-of-thinking-to-be-super-supordinary/</link>
+      <pubDate>Fri, 14 Aug 2026 18:42:23 GMT</pubDate>
+      <guid isPermaLink="false">1uAuRc16j6ZWpprQw6fb9CPl-EQ8x8pKe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uAuRc16j6ZWpprQw6fb9CPl-EQ8x8pKe" length="5761920" type="audio/mpeg"/>
+      <itunes:duration>00:24:00</itunes:duration>
+      <itunes:title>51 วิธีคิดของลูกน้องที่หัวหน้าอยากสนับสนุน</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาหัวหน้าโยนงานที่ยากที่สุดในทีมมาให้ แล้วแอบคิดในใจว่าทำไมต้องเป็นเรา เขาไม่ชอบเราหรือเปล่า วันนี้จะเล่าหนังสือที่บอกว่าความคิดแบบนั้นแหละ อาจกำลังทำให้พลาดโอกาสดี ๆ ไปโดยไม่รู้ตัว</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/03/98F5B741-7A12-49FB-BCDB-E5116BA2C8E0-1024x768.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>50 Years The Making of The Modern Thai Economy ธนาคารเกียรตินาคินภัทร ครึ่งหลัง</title>
       <description>เคยรู้สึกไหมครับ ว่าเศรษฐกิจไทยเหมือนวิ่งอยู่กับที่มานานแล้ว ตัวเลขข่าวบอกว่าโตขึ้นทุกปี แต่พอมองรอบตัวกลับรู้สึกว่าอะไรๆ ก็ฝืดไปหมด</description>
