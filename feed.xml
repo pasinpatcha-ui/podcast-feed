@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 19:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:32:45 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Irresistible</title>
+      <description>ลองนึกภาพพนักงานคนหนึ่ง อยู่บริษัทเดิมมาห้าปี วันหนึ่งอยากลองย้ายไปทำอีกสายงานที่สนใจ แล้วพบว่าวิธีเดียวที่จะย้ายได้จริง ๆ คือลาออก แล้วสมัครกลับเข้ามาใหม่ ฟังดูประหลาดไหมครับ แต่ในหนังสือบอกว่านี่คือสิ่งที่เกิดขึ้นจริงในหลายองค์กร เพราะไม่มีระบบ ไม่มีวัฒนธรรมที่รองรับการขยับตัวข้างใน วันนี้จะเล่าหนังสือชื่อ Irresistible เขียนโดย Josh Bersin</description>
+      <link>https://bobbypowers.com/review-irresistible/</link>
+      <pubDate>Sat, 15 Aug 2026 19:32:45 GMT</pubDate>
+      <guid isPermaLink="false">1Xr1gLC66gMmCXuqFcXYRRlnwvRmSgGLF</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xr1gLC66gMmCXuqFcXYRRlnwvRmSgGLF" length="5529888" type="audio/mpeg"/>
+      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:title>Irresistible</itunes:title>
+      <itunes:summary>ลองนึกภาพพนักงานคนหนึ่ง อยู่บริษัทเดิมมาห้าปี วันหนึ่งอยากลองย้ายไปทำอีกสายงานที่สนใจ แล้วพบว่าวิธีเดียวที่จะย้ายได้จริง ๆ คือลาออก แล้วสมัครกลับเข้ามาใหม่ ฟังดูประหลาดไหมครับ แต่ในหนังสือบอกว่านี่คือสิ่งที่เกิดขึ้นจริงในหลายองค์กร เพราะไม่มีระบบ ไม่มีวัฒนธรรมที่รองรับการขยับตัวข้างใน วันนี้จะเล่าหนังสือชื่อ Irresistible เขียนโดย Josh Bersin</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2023/06/Irresistible-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Influencer</title>
       <description>เคยพยายามเปลี่ยนใครสักคนไหมครับ พูดแล้วพูดอีก อธิบายเหตุผลจนหมดแรง อีกฝ่ายพยักหน้ารับปากอย่างดี แล้วอาทิตย์ถัดมาทุกอย่างก็กลับไปเหมือนเดิมทุกประการ</description>
