@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 15:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:37:39 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Creativity, Inc.</title>
+      <description>เคยไหมครับ เวลาเสนอไอเดียในที่ประชุมแล้วมีคนแย้งขึ้นมาสักคำ แล้วจุกขึ้นมาในอกเหมือนโดนว่าที่ตัวเอง ทั้งที่รู้อยู่เต็มอกว่าเขาพูดถึงงาน ไม่ได้พูดถึงเรา</description>
+      <link>https://bobbypowers.com/creativity-inc/</link>
+      <pubDate>Sat, 15 Aug 2026 15:37:39 GMT</pubDate>
+      <guid isPermaLink="false">1-aA02OKprnwZR-BhuKCu9ddDwoSWNY1o</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-aA02OKprnwZR-BhuKCu9ddDwoSWNY1o" length="5032608" type="audio/mpeg"/>
+      <itunes:duration>00:20:58</itunes:duration>
+      <itunes:title>Creativity, Inc.</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเสนอไอเดียในที่ประชุมแล้วมีคนแย้งขึ้นมาสักคำ แล้วจุกขึ้นมาในอกเหมือนโดนว่าที่ตัวเอง ทั้งที่รู้อยู่เต็มอกว่าเขาพูดถึงงาน ไม่ได้พูดถึงเรา</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2016/02/creativity-inc.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Building a Story Brand</title>
       <description>เคยไหมครับ เวลามีคนถามว่าทำงานอะไร ขายอะไรอยู่ แล้วพออธิบายจบ อีกฝ่ายพยักหน้าช้า ๆ แบบไม่ค่อยเข้าใจ ต้องรีบเติมอีกว่า &quot;คือแบบว่า...&quot; อีกสองสามรอบ สุดท้ายบทสนทนาก็จบลงแบบไม่มีใครจำอะไรได้</description>
