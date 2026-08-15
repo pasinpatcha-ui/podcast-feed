@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 18:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:14:22 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Hell Yeah or No</title>
+      <description>เคยไหมครับ ตอบตกลงกับอะไรสักอย่างไปทั้งที่ในใจรู้สึกแค่ว่า &quot;ก็ดีนะ&quot; ไม่ได้อยากทำถึงขนาดนั้น แล้วพอถึงวันจริงก็นั่งเสียดายเวลาตัวเองอยู่เงียบ ๆ ถ้าปฏิทินทั้งเดือนเต็มไปด้วยเรื่องแบบนั้น หนังสือที่จะเล่าวันนี้พูดกับคุณตรง ๆ เลย</description>
+      <link>https://bobbypowers.com/review-hell-yeah-or-no/</link>
+      <pubDate>Sat, 15 Aug 2026 18:14:22 GMT</pubDate>
+      <guid isPermaLink="false">1WOlq1FAAzdgGJXmT2iIxICgfaDs6sjMr</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WOlq1FAAzdgGJXmT2iIxICgfaDs6sjMr" length="5634624" type="audio/mpeg"/>
+      <itunes:duration>00:23:29</itunes:duration>
+      <itunes:title>Hell Yeah or No</itunes:title>
+      <itunes:summary>เคยไหมครับ ตอบตกลงกับอะไรสักอย่างไปทั้งที่ในใจรู้สึกแค่ว่า &quot;ก็ดีนะ&quot; ไม่ได้อยากทำถึงขนาดนั้น แล้วพอถึงวันจริงก็นั่งเสียดายเวลาตัวเองอยู่เงียบ ๆ ถ้าปฏิทินทั้งเดือนเต็มไปด้วยเรื่องแบบนั้น หนังสือที่จะเล่าวันนี้พูดกับคุณตรง ๆ เลย</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2023/11/Hell-Yeah-or-No-book-review-jpg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Growing Influence</title>
       <description>เคยไหมครับ ทำงานหนักมาทั้งปี รอวันที่ชื่อตัวเองจะได้ขึ้นไปอยู่ในตำแหน่งที่คิดว่าสมควรได้ แล้ววันนั้นก็มาถึงจริง ๆ แต่ชื่อที่ถูกประกาศออกมากลับเป็นคนอื่น แล้วก็ไม่ใช่ครั้งแรกด้วย</description>
