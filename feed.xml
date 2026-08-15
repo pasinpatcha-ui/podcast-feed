@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 12:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:30:22 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>All the Devils Are Here</title>
+      <description>เคยได้ยินประโยคที่ว่า &quot;ไม่มีใครคาดคิดว่ามันจะเกิด&quot; ไหมครับ ทุกครั้งที่วิกฤตใหญ่ ๆ ผ่านพ้นไป ประโยคนี้จะโผล่ขึ้นมาเสมอ เหมือนเป็นคำอธิบายที่ทุกคนยอมรับได้ง่ายที่สุด และเป็นคำอธิบายที่ไม่ต้องโทษใครเลยสักคน</description>
+      <link>https://bobbypowers.com/all-the-devils-are-here/</link>
+      <pubDate>Sat, 15 Aug 2026 13:30:22 GMT</pubDate>
+      <guid isPermaLink="false">1OcT1RYY1lCsymh0tKgi1KN1b6LHUozpY</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OcT1RYY1lCsymh0tKgi1KN1b6LHUozpY" length="6350208" type="audio/mpeg"/>
+      <itunes:duration>00:26:28</itunes:duration>
+      <itunes:title>All the Devils Are Here</itunes:title>
+      <itunes:summary>เคยได้ยินประโยคที่ว่า &quot;ไม่มีใครคาดคิดว่ามันจะเกิด&quot; ไหมครับ ทุกครั้งที่วิกฤตใหญ่ ๆ ผ่านพ้นไป ประโยคนี้จะโผล่ขึ้นมาเสมอ เหมือนเป็นคำอธิบายที่ทุกคนยอมรับได้ง่ายที่สุด และเป็นคำอธิบายที่ไม่ต้องโทษใครเลยสักคน</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2014/11/all-the-devils-are-here.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>All In</title>
       <description>ลองนึกภาพหัวหน้าทีมคนหนึ่ง กลยุทธ์เขียนไว้แน่นมาก สไลด์สวย เป้าหมายชัด แต่พอถึงเวลาลงมือจริง ทีมกลับทำแบบขอไปที ไม่มีใครเถียง แต่ก็ไม่มีใครทุ่มสุดตัวเหมือนกัน คุ้น ๆ ไหมครับ</description>
