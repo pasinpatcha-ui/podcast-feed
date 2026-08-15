@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 18:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:55:15 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>How to Win Friends and Influence People</title>
+      <description>เคยไหมครับ เวลาบอกใครสักคนตรง ๆ ว่าเขาทำผิดตรงไหน ตั้งใจดีแท้ ๆ อยากให้เขาแก้ แต่สิ่งที่ได้กลับมาไม่ใช่คำขอบคุณ กลับเป็นการเถียงสู้ หาเหตุผลมาปกป้องตัวเองสารพัด แล้วความสัมพันธ์ก็เย็นลงไปอีกขั้น</description>
+      <link>https://bobbypowers.com/how-to-win-friends-and-influence-people/</link>
+      <pubDate>Sat, 15 Aug 2026 18:55:15 GMT</pubDate>
+      <guid isPermaLink="false">1uTZZMz4HQHuWyzhtMiXI_c8_gD56MliM</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uTZZMz4HQHuWyzhtMiXI_c8_gD56MliM" length="5609760" type="audio/mpeg"/>
+      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:title>How to Win Friends and Influence People</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาบอกใครสักคนตรง ๆ ว่าเขาทำผิดตรงไหน ตั้งใจดีแท้ ๆ อยากให้เขาแก้ แต่สิ่งที่ได้กลับมาไม่ใช่คำขอบคุณ กลับเป็นการเถียงสู้ หาเหตุผลมาปกป้องตัวเองสารพัด แล้วความสัมพันธ์ก็เย็นลงไปอีกขั้น</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2015/09/howtowinfriends-e1544854593707.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hidden Potential</title>
       <description>เคยเห็นไหมครับ เด็กคนหนึ่งที่เข้าห้องเรียนวันแรกแล้วดูไม่ได้เรื่องเลย ตอบช้า ทำอะไรก็ผิด แล้วตั้งแต่สัปดาห์นั้นเป็นต้นมาก็ไม่มีใครมองเขาอีกเลย เพราะทุกคนตัดสินไปแล้วว่าเขาไม่ใช่คนที่มีแวว วันนี้จะเล่าหนังสือชื่อ Hidden Potential ของ Adam Grant</description>
