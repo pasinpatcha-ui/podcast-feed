@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 00:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:07:39 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>คนก้าวชีวิต เรื่องราวชีวประวัติ ศรีกรุง อรุณสวัสดี เจ้าของศรีกรุงโบรคเกอร์</title>
+      <description>เคยไหมครับ เวลาเจอเรื่องยากสักเรื่อง แล้วบอกตัวเองในใจว่าคงทำไม่ได้หรอก พอแค่นี้ดีกว่า แล้วก็วางมันลงตรงนั้นจริง ๆ</description>
+      <link>https://summaread.net/biography/%e0%b8%84%e0%b8%99%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%95-%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87-%e0%b8%ad%e0%b8%a3%e0%b8%b8%e0%b8%93/</link>
+      <pubDate>Sat, 15 Aug 2026 01:07:39 GMT</pubDate>
+      <guid isPermaLink="false">1lzKc4I1FgVHnBxsksCU7sbacuTwQUhGl</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lzKc4I1FgVHnBxsksCU7sbacuTwQUhGl" length="4838400" type="audio/mpeg"/>
+      <itunes:duration>00:20:10</itunes:duration>
+      <itunes:title>คนก้าวชีวิต เรื่องราวชีวประวัติ ศรีกรุง อรุณสวัสดี เจ้าของศรีกรุงโบรคเกอร์</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเจอเรื่องยากสักเรื่อง แล้วบอกตัวเองในใจว่าคงทำไม่ได้หรอก พอแค่นี้ดีกว่า แล้วก็วางมันลงตรงนั้นจริง ๆ</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2022/08/F2C58626-3D94-49D6-B231-44351461CD64-scaled.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>คเณิร์ตศาสตร์</title>
       <description>เคยยกมือถามในห้องเรียนเลขไหมครับว่า เรียนไปทำไม แล้วได้คำตอบว่า เรียนไปเถอะ เดี๋ยวสอบออก คำถามนั้นค้างอยู่ในใจหลายคนมาจนโต บางคนอายุสามสิบกว่าแล้วก็ยังไม่รู้ว่าเมทริกซ์ ลอการิทึม แคลคูลัส ที่นั่งทำจนดึกดื่นสมัยมัธยม มันไปโผล่ตรงไหนของชีวิต</description>
