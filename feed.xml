@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 16:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:50:21 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Everyone Communicates, Few Connect</title>
+      <description>เคยไหมครับ เล่าอะไรบางอย่างจนจบ อีกฝ่ายพยักหน้า ตอบว่าเข้าใจแล้ว แต่ลึก ๆ รู้เลยว่าไม่มีอะไรเข้าไปถึงข้างในเขาสักนิด คำออกไปครบทุกคำ แต่คนไม่ได้มาด้วย</description>
+      <link>https://bobbypowers.com/review-everyone-communicates-few-connect/</link>
+      <pubDate>Sat, 15 Aug 2026 16:50:21 GMT</pubDate>
+      <guid isPermaLink="false">1I0OJpBdYJDqp3FIvclk1DCDh_a_b0OCP</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I0OJpBdYJDqp3FIvclk1DCDh_a_b0OCP" length="5733888" type="audio/mpeg"/>
+      <itunes:duration>00:23:53</itunes:duration>
+      <itunes:title>Everyone Communicates, Few Connect</itunes:title>
+      <itunes:summary>เคยไหมครับ เล่าอะไรบางอย่างจนจบ อีกฝ่ายพยักหน้า ตอบว่าเข้าใจแล้ว แต่ลึก ๆ รู้เลยว่าไม่มีอะไรเข้าไปถึงข้างในเขาสักนิด คำออกไปครบทุกคำ แต่คนไม่ได้มาด้วย</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2024/08/Everyone-Communicates-Few-Connect-book-review-jpg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Difficult Conversations</title>
       <description>มีบทสนทนาบางแบบที่แค่นึกว่าต้องคุย ท้องก็ปั่นป่วนตั้งแต่ยังไม่ได้เริ่มเลยใช่ไหมครับ เรื่องที่คาอยู่ในใจมาหลายเดือน แต่พอเจอหน้ากันจริง ๆ ก็พูดออกไปได้แค่ครึ่งเดียว หรือไม่ก็พูดออกไปแล้วมันบานปลายจนเสียใจทีหลัง</description>
