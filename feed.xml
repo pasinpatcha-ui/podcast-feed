@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 14:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:39:58 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Being Boss</title>
+      <description>เคยไหมครับ วันที่ตื่นขึ้นมาแล้วรู้สึกว่างานที่ทำอยู่ทุกวันมันไม่ค่อยเป็นของตัวเองเท่าไหร่ ทำไปตามที่คนอื่นคาดหวัง แล้วพอถึงตอนกลางคืนก็นอนคิดถึงสิ่งที่อยากทำจริง ๆ แต่ไม่เคยได้ลงมือสักที</description>
+      <link>https://bobbypowers.com/review-being-boss/</link>
+      <pubDate>Sat, 15 Aug 2026 14:39:58 GMT</pubDate>
+      <guid isPermaLink="false">1sC8WePQzKmg3TMUnDaxBEBYeLY4KyI8a</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sC8WePQzKmg3TMUnDaxBEBYeLY4KyI8a" length="5625120" type="audio/mpeg"/>
+      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:title>Being Boss</itunes:title>
+      <itunes:summary>เคยไหมครับ วันที่ตื่นขึ้นมาแล้วรู้สึกว่างานที่ทำอยู่ทุกวันมันไม่ค่อยเป็นของตัวเองเท่าไหร่ ทำไปตามที่คนอื่นคาดหวัง แล้วพอถึงตอนกลางคืนก็นอนคิดถึงสิ่งที่อยากทำจริง ๆ แต่ไม่เคยได้ลงมือสักที</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2018/05/Being-Boss-Business-Book-Reviewer-e1544854124804.jpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Becoming Your Best</title>
       <description>เย็นวันอาทิตย์ นั่งดูจอไปเรื่อย ๆ รู้ตัวอีกทีก็สามทุ่ม พรุ่งนี้จันทร์แล้วแต่ยังไม่รู้เลยว่าสัปดาห์หน้าอะไรสำคัญกว่าอะไร แล้วพอถึงวันศุกร์ก็นั่งถามตัวเองว่าตกลงทั้งอาทิตย์ที่ผ่านมาได้อะไรขึ้นมาบ้าง</description>
