@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 21:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:03:28 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Originals</title>
+      <description>เคยไหมครับ เวลานั่งอยู่ในที่ประชุม แล้วมีความคิดบางอย่างผุดขึ้นมาในหัว รู้ทั้งรู้ว่ามันน่าจะดีกว่าสิ่งที่ทุกคนกำลังคุยกันอยู่ แต่สุดท้ายก็เก็บเอาไว้เงียบ ๆ แล้วพยักหน้าตามไป</description>
+      <link>https://bobbypowers.com/originals-how-non-conformists-move-the-world/</link>
+      <pubDate>Sat, 15 Aug 2026 22:03:28 GMT</pubDate>
+      <guid isPermaLink="false">1iJEWliH4nFQdxxPjG9s4FNV-upCqqqNc</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iJEWliH4nFQdxxPjG9s4FNV-upCqqqNc" length="5762016" type="audio/mpeg"/>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:title>Originals</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลานั่งอยู่ในที่ประชุม แล้วมีความคิดบางอย่างผุดขึ้นมาในหัว รู้ทั้งรู้ว่ามันน่าจะดีกว่าสิ่งที่ทุกคนกำลังคุยกันอยู่ แต่สุดท้ายก็เก็บเอาไว้เงียบ ๆ แล้วพยักหน้าตามไป</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2016/02/originals.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>On the Clock</title>
       <description>เคยสั่งของออนไลน์ตอนดึก แล้วรุ่งขึ้นกล่องมาวางอยู่หน้าบ้านไหมครับ สะดวกจนแทบไม่ทันคิดว่าตอนนั้นมีคนคนหนึ่งกำลังเดินหาของชิ้นนั้นอยู่ในโกดัง โดยมีเครื่องสแกนในมือคอยจับเวลาอยู่ทุกวินาที</description>
