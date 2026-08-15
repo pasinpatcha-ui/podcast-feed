@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 17:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:30:30 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Fix It</title>
+      <description>เคยไหมครับ เวลามีงานสักอย่างพลาดในทีม แล้วทุกคนมีคำอธิบายพร้อมหมด คนนี้บอกว่ารออีกฝ่ายอยู่ อีกคนบอกว่าไม่มีใครบอก สุดท้ายเรื่องนั้นก็ค้างอยู่ตรงนั้น ไม่มีใครผิดสักคน แต่ก็ไม่มีใครแก้</description>
+      <link>https://bobbypowers.com/review-fix-it/</link>
+      <pubDate>Sat, 15 Aug 2026 17:30:30 GMT</pubDate>
+      <guid isPermaLink="false">1-OG7R5yAPjKIhGerU7n7II_3npBJFajd</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-OG7R5yAPjKIhGerU7n7II_3npBJFajd" length="5501280" type="audio/mpeg"/>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:title>Fix It</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลามีงานสักอย่างพลาดในทีม แล้วทุกคนมีคำอธิบายพร้อมหมด คนนี้บอกว่ารออีกฝ่ายอยู่ อีกคนบอกว่าไม่มีใครบอก สุดท้ายเรื่องนั้นก็ค้างอยู่ตรงนั้น ไม่มีใครผิดสักคน แต่ก็ไม่มีใครแก้</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2016/05/fix-it.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Fierce Conversations</title>
       <description>เคยไหมครับ นั่งประชุมอยู่ ทุกคนพยักหน้าเห็นด้วยหมด ไม่มีใครค้านสักคำ แต่พอเดินออกมาถึงหน้าลิฟต์ บทสนทนาจริงเพิ่งจะเริ่ม แล้วสิ่งที่พูดกันตรงนั้นไม่เคยไปโผล่ในห้องประชุมเลย</description>
