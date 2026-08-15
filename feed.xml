@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 19:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:19:22 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Influencer</title>
+      <description>เคยพยายามเปลี่ยนใครสักคนไหมครับ พูดแล้วพูดอีก อธิบายเหตุผลจนหมดแรง อีกฝ่ายพยักหน้ารับปากอย่างดี แล้วอาทิตย์ถัดมาทุกอย่างก็กลับไปเหมือนเดิมทุกประการ</description>
+      <link>https://bobbypowers.com/influencer-book-review/</link>
+      <pubDate>Sat, 15 Aug 2026 19:19:22 GMT</pubDate>
+      <guid isPermaLink="false">1yKHr-6LYNN4AHc9-8ezC3jwYWOz8Y01j</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yKHr-6LYNN4AHc9-8ezC3jwYWOz8Y01j" length="4807104" type="audio/mpeg"/>
+      <itunes:duration>00:20:02</itunes:duration>
+      <itunes:title>Influencer</itunes:title>
+      <itunes:summary>เคยพยายามเปลี่ยนใครสักคนไหมครับ พูดแล้วพูดอีก อธิบายเหตุผลจนหมดแรง อีกฝ่ายพยักหน้ารับปากอย่างดี แล้วอาทิตย์ถัดมาทุกอย่างก็กลับไปเหมือนเดิมทุกประการ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2015/02/influencer.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How We Learn</title>
       <description>เคยไหมครับ นั่งอ่านหนังสือรวดเดียวห้าชั่วโมง ไฮไลท์เต็มเล่ม ลุกขึ้นมาแล้วรู้สึกว่าเข้าใจหมดแล้ว พอผ่านไปสามวันกลับนึกอะไรไม่ออกสักอย่าง เหมือนความรู้ทั้งหมดหายไปกับอากาศ</description>
