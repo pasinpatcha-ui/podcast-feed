@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 22:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:01:33 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Quit</title>
+      <description>เคยไหมครับ กับงานบางอย่างที่ลึก ๆ ก็รู้อยู่แล้วว่ามันไปต่อไม่ไหว แต่ยังฝืนทำต่ออีกเป็นเดือนเป็นปี เพราะรู้สึกว่าถ้าเลิกตอนนี้ ที่ทุ่มไปทั้งหมดจะกลายเป็นศูนย์ วันนี้จะเล่าหนังสือชื่อ Quit ของ Annie Duke ครับ</description>
+      <link>https://bobbypowers.com/review-quit/</link>
+      <pubDate>Sat, 15 Aug 2026 23:01:33 GMT</pubDate>
+      <guid isPermaLink="false">1G0mc1Y7bIlkWVWHjNqKGTQiUBTrK7VHz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1G0mc1Y7bIlkWVWHjNqKGTQiUBTrK7VHz" length="5562816" type="audio/mpeg"/>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:title>Quit</itunes:title>
+      <itunes:summary>เคยไหมครับ กับงานบางอย่างที่ลึก ๆ ก็รู้อยู่แล้วว่ามันไปต่อไม่ไหว แต่ยังฝืนทำต่ออีกเป็นเดือนเป็นปี เพราะรู้สึกว่าถ้าเลิกตอนนี้ ที่ทุ่มไปทั้งหมดจะกลายเป็นศูนย์ วันนี้จะเล่าหนังสือชื่อ Quit ของ Annie Duke ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2023/12/Quit-Annie-Duke-book-review-jpeg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Principles: Life and Work</title>
       <description>เคยไหมครับ เวลาเถียงกับใครสักคนอยู่ แล้วลึก ๆ ก็รู้ตัวว่าอีกฝ่ายอาจจะพูดถูก แต่ปากก็ยังเถียงต่อไป เพราะยอมตรงนั้นมันเหมือนแพ้ วันนี้จะเล่าเรื่อง Principles: Life and Work ของ Ray Dalio หนังสือที่บอกว่าความอยากเป็นฝ่ายถูกนี่แหละ คือสิ่งที่กั้นคนเราออกจากความจริงมากที่สุด</description>
