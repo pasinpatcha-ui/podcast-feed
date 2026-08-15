@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 19:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:47:28 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>It Doesn’t Have to Be Crazy at Work</title>
+      <description>หกโมงเย็นแล้ว กำลังจะปิดคอมกลับบ้าน แล้วเพิ่งนึกได้ว่าทั้งวันที่ผ่านมา งานชิ้นที่ตั้งใจจะทำจริง ๆ ยังไม่ได้แตะเลยสักนิด ประชุมสามรอบ แชทเด้งทั้งวัน สุดท้ายงานจริงต้องยกไปทำตอนกลางคืน เคยเป็นแบบนี้ไหมครับ</description>
+      <link>https://bobbypowers.com/summary-it-doesnt-have-to-be-crazy/</link>
+      <pubDate>Sat, 15 Aug 2026 19:47:28 GMT</pubDate>
+      <guid isPermaLink="false">1so2uFd6isQAovHrvY1q80Ka8HNtOSEWo</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1so2uFd6isQAovHrvY1q80Ka8HNtOSEWo" length="5576256" type="audio/mpeg"/>
+      <itunes:duration>00:23:14</itunes:duration>
+      <itunes:title>It Doesn’t Have to Be Crazy at Work</itunes:title>
+      <itunes:summary>หกโมงเย็นแล้ว กำลังจะปิดคอมกลับบ้าน แล้วเพิ่งนึกได้ว่าทั้งวันที่ผ่านมา งานชิ้นที่ตั้งใจจะทำจริง ๆ ยังไม่ได้แตะเลยสักนิด ประชุมสามรอบ แชทเด้งทั้งวัน สุดท้ายงานจริงต้องยกไปทำตอนกลางคืน เคยเป็นแบบนี้ไหมครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2026/03/It-Doesnt-Have-to-Be-Crazy-at-Work-book-summary.jpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Irresistible</title>
       <description>ลองนึกภาพพนักงานคนหนึ่ง อยู่บริษัทเดิมมาห้าปี วันหนึ่งอยากลองย้ายไปทำอีกสายงานที่สนใจ แล้วพบว่าวิธีเดียวที่จะย้ายได้จริง ๆ คือลาออก แล้วสมัครกลับเข้ามาใหม่ ฟังดูประหลาดไหมครับ แต่ในหนังสือบอกว่านี่คือสิ่งที่เกิดขึ้นจริงในหลายองค์กร เพราะไม่มีระบบ ไม่มีวัฒนธรรมที่รองรับการขยับตัวข้างใน วันนี้จะเล่าหนังสือชื่อ Irresistible เขียนโดย Josh Bersin</description>
