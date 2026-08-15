@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 15:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:07:21 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Death by Meeting</title>
+      <description>เคยไหมครับ เดินออกจากห้องประชุมที่กินเวลาไปสองชั่วโมงเต็ม แล้วนึกไม่ออกเลยว่าตกลงตัดสินอะไรกันไปบ้าง รู้แค่ว่าเมื่อยหลัง แล้วงานที่กองอยู่บนโต๊ะก็ยังกองเท่าเดิม</description>
+      <link>https://bobbypowers.com/death-by-meeting-book-review/</link>
+      <pubDate>Sat, 15 Aug 2026 16:07:21 GMT</pubDate>
+      <guid isPermaLink="false">1T88ZPnvn8bPgIP2DifVZ8ve8FKQlhsMe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1T88ZPnvn8bPgIP2DifVZ8ve8FKQlhsMe" length="5606016" type="audio/mpeg"/>
+      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:title>Death by Meeting</itunes:title>
+      <itunes:summary>เคยไหมครับ เดินออกจากห้องประชุมที่กินเวลาไปสองชั่วโมงเต็ม แล้วนึกไม่ออกเลยว่าตกลงตัดสินอะไรกันไปบ้าง รู้แค่ว่าเมื่อยหลัง แล้วงานที่กองอยู่บนโต๊ะก็ยังกองเท่าเดิม</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2022/02/Death-by-Meeting-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Crucial Conversations</title>
       <description>เคยไหมครับ บทสนทนาที่รู้อยู่แก่ใจว่าต้องคุย ซ้อมคำพูดในหัวมาทั้งอาทิตย์ แต่พอถึงเวลาจริงกลับได้แค่นั่งเงียบ ไม่ก็หลุดปากออกไปแรงกว่าที่ตั้งใจไว้เยอะ</description>
