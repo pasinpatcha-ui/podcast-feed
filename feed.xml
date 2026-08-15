@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 01:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:30:59 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>All In</title>
+      <description>ลองนึกภาพหัวหน้าทีมคนหนึ่ง กลยุทธ์เขียนไว้แน่นมาก สไลด์สวย เป้าหมายชัด แต่พอถึงเวลาลงมือจริง ทีมกลับทำแบบขอไปที ไม่มีใครเถียง แต่ก็ไม่มีใครทุ่มสุดตัวเหมือนกัน คุ้น ๆ ไหมครับ</description>
+      <link>https://bobbypowers.com/all-in-book-review/</link>
+      <pubDate>Sat, 15 Aug 2026 12:30:59 GMT</pubDate>
+      <guid isPermaLink="false">1v96c5Ohxr779sy145GbzA9Fb2idLo9TJ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v96c5Ohxr779sy145GbzA9Fb2idLo9TJ" length="5118720" type="audio/mpeg"/>
+      <itunes:duration>00:21:20</itunes:duration>
+      <itunes:title>All In</itunes:title>
+      <itunes:summary>ลองนึกภาพหัวหน้าทีมคนหนึ่ง กลยุทธ์เขียนไว้แน่นมาก สไลด์สวย เป้าหมายชัด แต่พอถึงเวลาลงมือจริง ทีมกลับทำแบบขอไปที ไม่มีใครเถียง แต่ก็ไม่มีใครทุ่มสุดตัวเหมือนกัน คุ้น ๆ ไหมครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2015/01/All-In-Book-Review-Adrian-Gostick-Chester-Elton.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>คลื่นลูกที่สามแห่งยุคอินเทอร์เน็ต The Third Wave</title>
       <description>ลองนึกดูสักนิดครับ ถ้าพรุ่งนี้ตื่นขึ้นมาแล้วอินเทอร์เน็ตดับทั้งประเทศไปหนึ่งวันเต็ม จะเหลืออะไรที่ยังทำได้บ้าง สั่งข้าวก็ไม่ได้ เรียกรถก็ไม่ได้ โอนเงินก็ไม่ได้ คำตอบที่ผุดขึ้นมาในหัวทันทีนั่นแหละ คือจุดที่หนังสือเล่มที่จะเล่าวันนี้พูดถึง</description>
