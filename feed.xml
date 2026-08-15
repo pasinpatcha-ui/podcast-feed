@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 20:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:54:22 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Meditations for Mortals</title>
+      <description>เคยไหมครับ วันที่ยุ่งตั้งแต่เช้า ตอบแชท เคลียร์อีเมล ปิดงานย่อยไปเป็นสิบชิ้น แล้วพอหัวถึงหมอนกลับรู้สึกว่ายังไม่ได้แตะเรื่องที่สำคัญจริง ๆ เลยสักเรื่อง วันนี้อยากเล่าหนังสือชื่อ Meditations for Mortals ของ Oliver Burkeman ครับ</description>
+      <link>https://bobbypowers.com/review-meditations-for-mortals/</link>
+      <pubDate>Sat, 15 Aug 2026 20:54:22 GMT</pubDate>
+      <guid isPermaLink="false">1kz8B_-pIfQkQSN2v-KSdPKg-XtAsu3BG</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kz8B_-pIfQkQSN2v-KSdPKg-XtAsu3BG" length="5543232" type="audio/mpeg"/>
+      <itunes:duration>00:23:06</itunes:duration>
+      <itunes:title>Meditations for Mortals</itunes:title>
+      <itunes:summary>เคยไหมครับ วันที่ยุ่งตั้งแต่เช้า ตอบแชท เคลียร์อีเมล ปิดงานย่อยไปเป็นสิบชิ้น แล้วพอหัวถึงหมอนกลับรู้สึกว่ายังไม่ได้แตะเรื่องที่สำคัญจริง ๆ เลยสักเรื่อง วันนี้อยากเล่าหนังสือชื่อ Meditations for Mortals ของ Oliver Burkeman ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/01/Meditations-for-Mortals-book-review.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Masters of Scale</title>
       <description>เคยเสนอไอเดียอะไรสักอย่างไหมครับ แล้วคนในห้องพยักหน้ากันหมด บอกว่าดีมาก น่าทำเลย แล้วก็เดินออกมาด้วยความโล่งใจว่ามาถูกทางแล้ว วันนี้จะเล่าหนังสือเล่มที่บอกว่า เสียงเห็นด้วยพร้อมกันทั้งห้องนั่นแหละ คือสัญญาณที่ควรกังวลที่สุด</description>
