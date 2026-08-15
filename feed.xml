@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 16:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:35:45 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Difficult Conversations</title>
+      <description>มีบทสนทนาบางแบบที่แค่นึกว่าต้องคุย ท้องก็ปั่นป่วนตั้งแต่ยังไม่ได้เริ่มเลยใช่ไหมครับ เรื่องที่คาอยู่ในใจมาหลายเดือน แต่พอเจอหน้ากันจริง ๆ ก็พูดออกไปได้แค่ครึ่งเดียว หรือไม่ก็พูดออกไปแล้วมันบานปลายจนเสียใจทีหลัง</description>
+      <link>https://bobbypowers.com/review-difficult-conversations/</link>
+      <pubDate>Sat, 15 Aug 2026 16:35:45 GMT</pubDate>
+      <guid isPermaLink="false">1wC_g3ru_QJSS2icZootqb5jCLtRLqY1-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wC_g3ru_QJSS2icZootqb5jCLtRLqY1-" length="5734464" type="audio/mpeg"/>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:title>Difficult Conversations</itunes:title>
+      <itunes:summary>มีบทสนทนาบางแบบที่แค่นึกว่าต้องคุย ท้องก็ปั่นป่วนตั้งแต่ยังไม่ได้เริ่มเลยใช่ไหมครับ เรื่องที่คาอยู่ในใจมาหลายเดือน แต่พอเจอหน้ากันจริง ๆ ก็พูดออกไปได้แค่ครึ่งเดียว หรือไม่ก็พูดออกไปแล้วมันบานปลายจนเสียใจทีหลัง</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2018/04/Difficult-Conversations-book-review-e1607297875888.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Die With Zero</title>
       <description>เคยไหมครับ เวลาเปิดดูยอดเงินเก็บแล้วรู้สึกอุ่นใจขึ้นมาหน่อย แต่พอลองนึกย้อนว่าปีที่ผ่านมาได้ไปทำอะไรที่ยังจำได้จริง ๆ บ้าง กลับนึกไม่ค่อยออกสักอย่าง วันนี้จะเล่าหนังสือชื่อ Die With Zero ของ Bill Perkins ครับ</description>
