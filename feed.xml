@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 00:29:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:40:23 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>ไขปริศนาประเด็นอำพราง ในประวัติศาสตร์ไทย</title>
+      <description>จำได้ไหมครับ ตอนเรียนประวัติศาสตร์ในห้อง ครูเล่าว่าสยามรอดจากการเป็นเมืองขึ้นมาได้อย่างหวุดหวิด เพราะอังกฤษกับฝรั่งเศสต่างก็อยากได้บ้านเรา แล้วเคยสงสัยต่อไหมว่า ทำไมเขาถึงอยากได้เมืองไทยกันนัก</description>
+      <link>https://summaread.net/history/the-secret-of-thailand-history/</link>
+      <pubDate>Sat, 15 Aug 2026 00:40:23 GMT</pubDate>
+      <guid isPermaLink="false">1iSnRI6qzYbEjQTl4URdMLFAcI8Emp8Zx</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iSnRI6qzYbEjQTl4URdMLFAcI8Emp8Zx" length="3861216" type="audio/mpeg"/>
+      <itunes:duration>00:16:05</itunes:duration>
+      <itunes:title>ไขปริศนาประเด็นอำพราง ในประวัติศาสตร์ไทย</itunes:title>
+      <itunes:summary>จำได้ไหมครับ ตอนเรียนประวัติศาสตร์ในห้อง ครูเล่าว่าสยามรอดจากการเป็นเมืองขึ้นมาได้อย่างหวุดหวิด เพราะอังกฤษกับฝรั่งเศสต่างก็อยากได้บ้านเรา แล้วเคยสงสัยต่อไหมว่า ทำไมเขาถึงอยากได้เมืองไทยกันนัก</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2018/12/14079485_10154406648010987_2484302816632750824_n-copy.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>เข้าใจโลกใหม่ของวัยรุ่นยุควุ่นเน็ต It’s Complicated</title>
       <description>เคยยืนมองเด็กสักคนที่ก้มหน้าอยู่กับจอไหมครับ นั่งอยู่ตรงนั้นมาสามชั่วโมงแล้ว ถามว่าทำอะไรอยู่ก็ได้คำตอบสั้น ๆ ว่าเปล่า วันนี้จะเล่าหนังสือชื่อ It&apos;s Complicated ฉบับแปลไทยใช้ชื่อว่า เข้าใจโลกใหม่ของวัยรุ่นยุควุ่นเน็ต เขียนโดย Danah Boyd แปลโดยลลิตา ผลผลา จากสำนักพิมพ์ Bookscape</description>
