@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 21:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:20:38 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Moneyball</title>
+      <description>เคยไหมครับ เวลาต้องลงแข่งกับคนที่มีทุนหนากว่าหลายเท่า รู้ทั้งรู้ว่าเล่นเกมเดียวกับเขายังไงก็แพ้ แต่ก็ยังฝืนเล่นเกมเดิมอยู่ดี วันนี้จะเล่าเรื่อง Moneyball ของ Michael Lewis หนังสือที่พูดถึงทีมเบสบอลที่เงินน้อยที่สุดทีมหนึ่งในลีก แต่ชนะได้พอ ๆ กับทีมที่รวยที่สุด</description>
+      <link>https://bobbypowers.com/moneyball-book-review/</link>
+      <pubDate>Sat, 15 Aug 2026 21:20:38 GMT</pubDate>
+      <guid isPermaLink="false">1qhFwI7qputaOJcNBfXcn2p39r3zb8Vk4</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qhFwI7qputaOJcNBfXcn2p39r3zb8Vk4" length="4736832" type="audio/mpeg"/>
+      <itunes:duration>00:19:44</itunes:duration>
+      <itunes:title>Moneyball</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาต้องลงแข่งกับคนที่มีทุนหนากว่าหลายเท่า รู้ทั้งรู้ว่าเล่นเกมเดียวกับเขายังไงก็แพ้ แต่ก็ยังฝืนเล่นเกมเดิมอยู่ดี วันนี้จะเล่าเรื่อง Moneyball ของ Michael Lewis หนังสือที่พูดถึงทีมเบสบอลที่เงินน้อยที่สุดทีมหนึ่งในลีก แต่ชนะได้พอ ๆ กับทีมที่รวยที่สุด</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2014/09/Moneyball-The-Art-of-Winning-Business-Book-Review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Million Dollar Weekend</title>
       <description>เคยมีไอเดียธุรกิจสักอันค้างอยู่ในหัวมานานแค่ไหนแล้วครับ อันที่คิดแล้วคิดอีก จดใส่โน้ตไว้ แล้วก็ยังไม่ได้เริ่มสักที เพราะรู้สึกว่ายังไม่พร้อม ยังไม่รู้จะเริ่มยังไง ยังไม่ชัวร์ว่ามันจะเวิร์กไหม</description>
