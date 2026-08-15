@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 01:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:21:08 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>คม CEO</title>
+      <description>เคยสงสัยไหมครับ ว่าคนที่นั่งเก้าอี้สูงสุดขององค์กร เวลาเจอปัญหาที่ไม่มีใครตัดสินใจแทนได้ เขาคิดยังไง วันนี้จะเล่าหนังสือชื่อ คม CEO เขียนโดยคุณไอดิน ศรีเมือง จากสำนักพิมพ์แสงดาวครับ</description>
+      <link>https://summaread.net/biography/%e0%b8%aa%e0%b8%a3%e0%b8%b8%e0%b8%9b%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad-%e0%b8%84%e0%b8%a1-ceo/</link>
+      <pubDate>Sat, 15 Aug 2026 01:21:08 GMT</pubDate>
+      <guid isPermaLink="false">1M6J6Y0NOflijZjqV2MJQ-9Ya8d6fRi0w</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M6J6Y0NOflijZjqV2MJQ-9Ya8d6fRi0w" length="5228832" type="audio/mpeg"/>
+      <itunes:duration>00:21:47</itunes:duration>
+      <itunes:title>คม CEO</itunes:title>
+      <itunes:summary>เคยสงสัยไหมครับ ว่าคนที่นั่งเก้าอี้สูงสุดขององค์กร เวลาเจอปัญหาที่ไม่มีใครตัดสินใจแทนได้ เขาคิดยังไง วันนี้จะเล่าหนังสือชื่อ คม CEO เขียนโดยคุณไอดิน ศรีเมือง จากสำนักพิมพ์แสงดาวครับ</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/07/9DCB315F-C78D-46A3-9F9C-609F2E376433-1024x768.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>คนก้าวชีวิต เรื่องราวชีวประวัติ ศรีกรุง อรุณสวัสดี เจ้าของศรีกรุงโบรคเกอร์</title>
       <description>เคยไหมครับ เวลาเจอเรื่องยากสักเรื่อง แล้วบอกตัวเองในใจว่าคงทำไม่ได้หรอก พอแค่นี้ดีกว่า แล้วก็วางมันลงตรงนั้นจริง ๆ</description>
