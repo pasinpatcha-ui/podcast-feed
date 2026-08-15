@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 14:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:24:15 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Becoming Your Best</title>
+      <description>เย็นวันอาทิตย์ นั่งดูจอไปเรื่อย ๆ รู้ตัวอีกทีก็สามทุ่ม พรุ่งนี้จันทร์แล้วแต่ยังไม่รู้เลยว่าสัปดาห์หน้าอะไรสำคัญกว่าอะไร แล้วพอถึงวันศุกร์ก็นั่งถามตัวเองว่าตกลงทั้งอาทิตย์ที่ผ่านมาได้อะไรขึ้นมาบ้าง</description>
+      <link>https://bobbypowers.com/becoming-your-best-book-review/</link>
+      <pubDate>Sat, 15 Aug 2026 14:24:15 GMT</pubDate>
+      <guid isPermaLink="false">1CnFcUdBJ-v62IAcadB25R8AGF63QwDo1</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CnFcUdBJ-v62IAcadB25R8AGF63QwDo1" length="4827168" type="audio/mpeg"/>
+      <itunes:duration>00:20:07</itunes:duration>
+      <itunes:title>Becoming Your Best</itunes:title>
+      <itunes:summary>เย็นวันอาทิตย์ นั่งดูจอไปเรื่อย ๆ รู้ตัวอีกทีก็สามทุ่ม พรุ่งนี้จันทร์แล้วแต่ยังไม่รู้เลยว่าสัปดาห์หน้าอะไรสำคัญกว่าอะไร แล้วพอถึงวันศุกร์ก็นั่งถามตัวเองว่าตกลงทั้งอาทิตย์ที่ผ่านมาได้อะไรขึ้นมาบ้าง</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2015/12/becoming-your-best.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>A World Without Email</title>
       <description>นั่งเขียนงานอยู่ดี ๆ พิมพ์ไปได้สองสามบรรทัด มือก็เลื่อนไปกดเปิดแท็บอีเมลเอง ทั้งที่รู้อยู่แก่ใจว่าไม่มีใครส่งอะไรมา พอปิดแท็บกลับมา ก็ลืมไปแล้วว่าเมื่อกี้กำลังจะเขียนประโยคอะไรต่อ ถ้าภาพนี้คุ้น ๆ วันนี้จะเล่าหนังสือชื่อ A World Without Email ของ Cal Newport ให้ฟังครับ</description>
