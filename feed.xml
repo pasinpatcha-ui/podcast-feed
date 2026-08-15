@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 20:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:15:00 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Lean Learning</title>
+      <description>เคยไหมครับ อยากเริ่มทำอะไรสักอย่าง สมมติว่าอยากเริ่มทำธุรกิจเล็ก ๆ สักอัน ก็เลยไปหาหนังสือมาสามเล่ม สมัครคอร์สอีกหนึ่งคอร์ส เซฟคลิปไว้ดูอีกยี่สิบคลิป แล้วผ่านไปสามเดือน กลับยังไม่ได้เริ่มอะไรเลยสักอย่าง</description>
+      <link>https://bobbypowers.com/summary-lean-learning/</link>
+      <pubDate>Sat, 15 Aug 2026 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">1Dh0FSq01rH1QPXcEln_Xzd29V0WyYMan</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dh0FSq01rH1QPXcEln_Xzd29V0WyYMan" length="5974272" type="audio/mpeg"/>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:title>Lean Learning</itunes:title>
+      <itunes:summary>เคยไหมครับ อยากเริ่มทำอะไรสักอย่าง สมมติว่าอยากเริ่มทำธุรกิจเล็ก ๆ สักอัน ก็เลยไปหาหนังสือมาสามเล่ม สมัครคอร์สอีกหนึ่งคอร์ส เซฟคลิปไว้ดูอีกยี่สิบคลิป แล้วผ่านไปสามเดือน กลับยังไม่ได้เริ่มอะไรเลยสักอย่าง</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/08/Lean-Learning-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Killing Giants</title>
       <description>เคยไหมครับ เวลามองไปที่ตลาดที่ตัวเองยืนอยู่ แล้วเห็นเจ้าใหญ่ขวางอยู่ตรงกลาง งบหนากว่า คนเยอะกว่า ชื่อก็อยู่มาก่อนเป็นสิบปี แล้วแอบคิดในใจว่าจะสู้ยังไงไหว วันนี้จะเล่าหนังสือชื่อ Killing Giants ของ Stephen Denny ครับ</description>
