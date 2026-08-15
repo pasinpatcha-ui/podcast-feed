@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 17:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:45:19 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Getting Naked</title>
+      <description>เคยไหมครับ เวลาฟังใครเล่าเรื่องธุรกิจที่ไปได้สวย แล้วรู้สึกว่ามันเรียบเกินไป เหมือนมีแต่ช่วงที่ชนะ ไม่มีช่วงที่แทบเอาตัวไม่รอด วันนี้จะเล่าเล่มที่ไม่เป็นแบบนั้นเลย ชื่อ Getting Naked เขียนโดย Joel Primus ร่วมกับ Bennet Coles</description>
+      <link>https://bobbypowers.com/review-getting-naked/</link>
+      <pubDate>Sat, 15 Aug 2026 17:45:19 GMT</pubDate>
+      <guid isPermaLink="false">1ASlJRjbXZsNKBX9Zcd6KlSQON0qTpuvz</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ASlJRjbXZsNKBX9Zcd6KlSQON0qTpuvz" length="5720736" type="audio/mpeg"/>
+      <itunes:duration>00:23:50</itunes:duration>
+      <itunes:title>Getting Naked</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาฟังใครเล่าเรื่องธุรกิจที่ไปได้สวย แล้วรู้สึกว่ามันเรียบเกินไป เหมือนมีแต่ช่วงที่ชนะ ไม่มีช่วงที่แทบเอาตัวไม่รอด วันนี้จะเล่าเล่มที่ไม่เป็นแบบนั้นเลย ชื่อ Getting Naked เขียนโดย Joel Primus ร่วมกับ Bennet Coles</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2021/02/Getting-Naked-Joel-Primus-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Fix It</title>
       <description>เคยไหมครับ เวลามีงานสักอย่างพลาดในทีม แล้วทุกคนมีคำอธิบายพร้อมหมด คนนี้บอกว่ารออีกฝ่ายอยู่ อีกคนบอกว่าไม่มีใครบอก สุดท้ายเรื่องนั้นก็ค้างอยู่ตรงนั้น ไม่มีใครผิดสักคน แต่ก็ไม่มีใครแก้</description>
