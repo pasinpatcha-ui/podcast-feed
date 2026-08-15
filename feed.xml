@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 21:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:33:39 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>No Rules Rules</title>
+      <description>เคยไหมครับ เวลาจะลาพักร้อนสักสามวัน ต้องกรอกใบ ต้องรอหัวหน้าเซ็น แล้วก็ยังต้องมานั่งอธิบายว่าทำไมถึงจะไป ทั้งที่งานก็ส่งครบหมดแล้ว หรือซื้อของใช้ในออฟฟิศชิ้นเดียว แต่ต้องแนบใบเสร็จผ่านการอนุมัติสามชั้น</description>
+      <link>https://bobbypowers.com/book-review-no-rules-rules/</link>
+      <pubDate>Sat, 15 Aug 2026 21:33:39 GMT</pubDate>
+      <guid isPermaLink="false">11gFBATpPC8cOskcjWrdShinbz1pWm53k</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11gFBATpPC8cOskcjWrdShinbz1pWm53k" length="5269632" type="audio/mpeg"/>
+      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:title>No Rules Rules</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาจะลาพักร้อนสักสามวัน ต้องกรอกใบ ต้องรอหัวหน้าเซ็น แล้วก็ยังต้องมานั่งอธิบายว่าทำไมถึงจะไป ทั้งที่งานก็ส่งครบหมดแล้ว หรือซื้อของใช้ในออฟฟิศชิ้นเดียว แต่ต้องแนบใบเสร็จผ่านการอนุมัติสามชั้น</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2020/11/No-Rules-Rules-Hastings-Meyer.jpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Moneyball</title>
       <description>เคยไหมครับ เวลาต้องลงแข่งกับคนที่มีทุนหนากว่าหลายเท่า รู้ทั้งรู้ว่าเล่นเกมเดียวกับเขายังไงก็แพ้ แต่ก็ยังฝืนเล่นเกมเดิมอยู่ดี วันนี้จะเล่าเรื่อง Moneyball ของ Michael Lewis หนังสือที่พูดถึงทีมเบสบอลที่เงินน้อยที่สุดทีมหนึ่งในลีก แต่ชนะได้พอ ๆ กับทีมที่รวยที่สุด</description>
