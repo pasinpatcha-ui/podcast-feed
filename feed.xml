@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 14 Aug 2026 23:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:12:57 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>ขายเนื้อให้เหมือนหลุยส์วิตตอง</title>
+      <description>เคยไหมครับ อธิบายสินค้าตัวเองจนหมดแล้ว ลูกค้าพยักหน้าเห็นด้วยทุกข้อ แต่ปิดท้ายด้วยประโยคเดียวว่า ลดได้อีกไหม วันนี้จะเล่าหนังสือชื่อ ขายเนื้อให้เหมือนหลุยส์วิตตอง เขียนโดย อีดงช็อล แปลไทยโดย อาสยา อภิชนางกูร สำนักพิมพ์ Amarin</description>
+      <link>https://summaread.net/marketing/sell-beef-like-louis-vuitton/</link>
+      <pubDate>Sat, 15 Aug 2026 00:12:57 GMT</pubDate>
+      <guid isPermaLink="false">1Kx5sYK-ftWH_m4pJJVVKRTZOfzune_h5</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kx5sYK-ftWH_m4pJJVVKRTZOfzune_h5" length="5966016" type="audio/mpeg"/>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:title>ขายเนื้อให้เหมือนหลุยส์วิตตอง</itunes:title>
+      <itunes:summary>เคยไหมครับ อธิบายสินค้าตัวเองจนหมดแล้ว ลูกค้าพยักหน้าเห็นด้วยทุกข้อ แต่ปิดท้ายด้วยประโยคเดียวว่า ลดได้อีกไหม วันนี้จะเล่าหนังสือชื่อ ขายเนื้อให้เหมือนหลุยส์วิตตอง เขียนโดย อีดงช็อล แปลไทยโดย อาสยา อภิชนางกูร สำนักพิมพ์ Amarin</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2018/11/IMG_7899-1024x782.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ขายดีเพราะขึ้นราคา – กลยุทธ์และเทคนิคการขึ้นราคา</title>
       <description>เคยไหมครับ ตอนนั่งคิดจะขึ้นราคาสินค้าตัวเอง คิดอยู่ตั้งนาน สุดท้ายก็ถอย แล้วลงเอยด้วยการจัดโปรลดราคาเหมือนเดิม เพราะกลัวคำเดียวคือกลัวลูกค้าหาย</description>
