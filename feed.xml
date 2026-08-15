@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 18:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:27:32 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Hidden Genius</title>
+      <description>เคยไหมครับ เวลาเห็นคนที่เก่งจนน่าตกใจสักคน แล้วในใจก็สรุปไปเรียบร้อยแล้วว่า เขาคงมีอะไรบางอย่างติดตัวมาตั้งแต่เกิด แล้วก็ปิดเรื่องนั้นไปเงียบ ๆ ไม่คิดต่อ</description>
+      <link>https://bobbypowers.com/summary-hidden-genius/</link>
+      <pubDate>Sat, 15 Aug 2026 18:27:32 GMT</pubDate>
+      <guid isPermaLink="false">1NcS2ZwbaOxFhSkIEn-3GZ57_lbxHxKaL</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NcS2ZwbaOxFhSkIEn-3GZ57_lbxHxKaL" length="4974720" type="audio/mpeg"/>
+      <itunes:duration>00:20:44</itunes:duration>
+      <itunes:title>Hidden Genius</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเห็นคนที่เก่งจนน่าตกใจสักคน แล้วในใจก็สรุปไปเรียบร้อยแล้วว่า เขาคงมีอะไรบางอย่างติดตัวมาตั้งแต่เกิด แล้วก็ปิดเรื่องนั้นไปเงียบ ๆ ไม่คิดต่อ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/12/Hidden-Genius-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hell Yeah or No</title>
       <description>เคยไหมครับ ตอบตกลงกับอะไรสักอย่างไปทั้งที่ในใจรู้สึกแค่ว่า &quot;ก็ดีนะ&quot; ไม่ได้อยากทำถึงขนาดนั้น แล้วพอถึงวันจริงก็นั่งเสียดายเวลาตัวเองอยู่เงียบ ๆ ถ้าปฏิทินทั้งเดือนเต็มไปด้วยเรื่องแบบนั้น หนังสือที่จะเล่าวันนี้พูดกับคุณตรง ๆ เลย</description>
