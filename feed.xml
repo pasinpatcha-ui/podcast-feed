@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 15:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:51:28 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Crucial Conversations</title>
+      <description>เคยไหมครับ บทสนทนาที่รู้อยู่แก่ใจว่าต้องคุย ซ้อมคำพูดในหัวมาทั้งอาทิตย์ แต่พอถึงเวลาจริงกลับได้แค่นั่งเงียบ ไม่ก็หลุดปากออกไปแรงกว่าที่ตั้งใจไว้เยอะ</description>
+      <link>https://bobbypowers.com/crucial-conversations/</link>
+      <pubDate>Sat, 15 Aug 2026 15:51:28 GMT</pubDate>
+      <guid isPermaLink="false">11kJP1MEbt3aNI7y7NiXLTFYejKHVjbMJ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11kJP1MEbt3aNI7y7NiXLTFYejKHVjbMJ" length="5827968" type="audio/mpeg"/>
+      <itunes:duration>00:24:17</itunes:duration>
+      <itunes:title>Crucial Conversations</itunes:title>
+      <itunes:summary>เคยไหมครับ บทสนทนาที่รู้อยู่แก่ใจว่าต้องคุย ซ้อมคำพูดในหัวมาทั้งอาทิตย์ แต่พอถึงเวลาจริงกลับได้แค่นั่งเงียบ ไม่ก็หลุดปากออกไปแรงกว่าที่ตั้งใจไว้เยอะ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2014/10/Crucial-Conversations-Book-Review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Creativity, Inc.</title>
       <description>เคยไหมครับ เวลาเสนอไอเดียในที่ประชุมแล้วมีคนแย้งขึ้นมาสักคำ แล้วจุกขึ้นมาในอกเหมือนโดนว่าที่ตัวเอง ทั้งที่รู้อยู่เต็มอกว่าเขาพูดถึงงาน ไม่ได้พูดถึงเรา</description>
