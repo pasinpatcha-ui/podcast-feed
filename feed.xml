@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 17:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:16:46 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Fierce Conversations</title>
+      <description>เคยไหมครับ นั่งประชุมอยู่ ทุกคนพยักหน้าเห็นด้วยหมด ไม่มีใครค้านสักคำ แต่พอเดินออกมาถึงหน้าลิฟต์ บทสนทนาจริงเพิ่งจะเริ่ม แล้วสิ่งที่พูดกันตรงนั้นไม่เคยไปโผล่ในห้องประชุมเลย</description>
+      <link>https://bobbypowers.com/review-fierce-conversations/</link>
+      <pubDate>Sat, 15 Aug 2026 17:16:46 GMT</pubDate>
+      <guid isPermaLink="false">1b-l5Msj5kCsjUDuzkeD8oYRra-lT3bEf</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b-l5Msj5kCsjUDuzkeD8oYRra-lT3bEf" length="6042144" type="audio/mpeg"/>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:title>Fierce Conversations</itunes:title>
+      <itunes:summary>เคยไหมครับ นั่งประชุมอยู่ ทุกคนพยักหน้าเห็นด้วยหมด ไม่มีใครค้านสักคำ แต่พอเดินออกมาถึงหน้าลิฟต์ บทสนทนาจริงเพิ่งจะเริ่ม แล้วสิ่งที่พูดกันตรงนั้นไม่เคยไปโผล่ในห้องประชุมเลย</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2017/03/Fierce-Conversations-book-review-e1607302997575.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Farsighted</title>
       <description>เคยไหมครับ เวลาต้องตัดสินใจเรื่องใหญ่สักเรื่อง จะย้ายงานดีไหม จะลงหลักปักฐานที่ไหนดี สุดท้ายก็ลงเอยที่การหยิบกระดาษมาแผ่นหนึ่ง ขีดเส้นแบ่งกลาง ฝั่งหนึ่งเขียนข้อดี อีกฝั่งเขียนข้อเสีย แล้วก็นั่งจ้องมันอยู่อย่างนั้น</description>
