@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 18:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:07:21 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>How We Learn</title>
+      <description>เคยไหมครับ นั่งอ่านหนังสือรวดเดียวห้าชั่วโมง ไฮไลท์เต็มเล่ม ลุกขึ้นมาแล้วรู้สึกว่าเข้าใจหมดแล้ว พอผ่านไปสามวันกลับนึกอะไรไม่ออกสักอย่าง เหมือนความรู้ทั้งหมดหายไปกับอากาศ</description>
+      <link>https://bobbypowers.com/review-how-we-learn/</link>
+      <pubDate>Sat, 15 Aug 2026 19:07:21 GMT</pubDate>
+      <guid isPermaLink="false">1eiJ3ln7LGzpdoqrFIw7ZHZD84DpZWUXJ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eiJ3ln7LGzpdoqrFIw7ZHZD84DpZWUXJ" length="4843296" type="audio/mpeg"/>
+      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:title>How We Learn</itunes:title>
+      <itunes:summary>เคยไหมครับ นั่งอ่านหนังสือรวดเดียวห้าชั่วโมง ไฮไลท์เต็มเล่ม ลุกขึ้นมาแล้วรู้สึกว่าเข้าใจหมดแล้ว พอผ่านไปสามวันกลับนึกอะไรไม่ออกสักอย่าง เหมือนความรู้ทั้งหมดหายไปกับอากาศ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2021/11/How-We-Learn-Benedict-Carey-book-review.jpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How to Win Friends and Influence People</title>
       <description>เคยไหมครับ เวลาบอกใครสักคนตรง ๆ ว่าเขาทำผิดตรงไหน ตั้งใจดีแท้ ๆ อยากให้เขาแก้ แต่สิ่งที่ได้กลับมาไม่ใช่คำขอบคุณ กลับเป็นการเถียงสู้ หาเหตุผลมาปกป้องตัวเองสารพัด แล้วความสัมพันธ์ก็เย็นลงไปอีกขั้น</description>
