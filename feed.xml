@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 16:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:02:37 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Farsighted</title>
+      <description>เคยไหมครับ เวลาต้องตัดสินใจเรื่องใหญ่สักเรื่อง จะย้ายงานดีไหม จะลงหลักปักฐานที่ไหนดี สุดท้ายก็ลงเอยที่การหยิบกระดาษมาแผ่นหนึ่ง ขีดเส้นแบ่งกลาง ฝั่งหนึ่งเขียนข้อดี อีกฝั่งเขียนข้อเสีย แล้วก็นั่งจ้องมันอยู่อย่างนั้น</description>
+      <link>https://bobbypowers.com/review-farsighted/</link>
+      <pubDate>Sat, 15 Aug 2026 17:02:37 GMT</pubDate>
+      <guid isPermaLink="false">1cDJ793daOigUWo8wy2jPbpFPp9ywfBNV</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cDJ793daOigUWo8wy2jPbpFPp9ywfBNV" length="4563072" type="audio/mpeg"/>
+      <itunes:duration>00:19:01</itunes:duration>
+      <itunes:title>Farsighted</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาต้องตัดสินใจเรื่องใหญ่สักเรื่อง จะย้ายงานดีไหม จะลงหลักปักฐานที่ไหนดี สุดท้ายก็ลงเอยที่การหยิบกระดาษมาแผ่นหนึ่ง ขีดเส้นแบ่งกลาง ฝั่งหนึ่งเขียนข้อดี อีกฝั่งเขียนข้อเสีย แล้วก็นั่งจ้องมันอยู่อย่างนั้น</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2019/01/Farsighted-Steven-Johnson-Business-Book-Reviewer.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Everyone Communicates, Few Connect</title>
       <description>เคยไหมครับ เล่าอะไรบางอย่างจนจบ อีกฝ่ายพยักหน้า ตอบว่าเข้าใจแล้ว แต่ลึก ๆ รู้เลยว่าไม่มีอะไรเข้าไปถึงข้างในเขาสักนิด คำออกไปครบทุกคำ แต่คนไม่ได้มาด้วย</description>
