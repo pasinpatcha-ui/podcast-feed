@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 19:47:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:00:43 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Killing Giants</title>
+      <description>เคยไหมครับ เวลามองไปที่ตลาดที่ตัวเองยืนอยู่ แล้วเห็นเจ้าใหญ่ขวางอยู่ตรงกลาง งบหนากว่า คนเยอะกว่า ชื่อก็อยู่มาก่อนเป็นสิบปี แล้วแอบคิดในใจว่าจะสู้ยังไงไหว วันนี้จะเล่าหนังสือชื่อ Killing Giants ของ Stephen Denny ครับ</description>
+      <link>https://bobbypowers.com/killing-giants/</link>
+      <pubDate>Sat, 15 Aug 2026 20:00:43 GMT</pubDate>
+      <guid isPermaLink="false">1DEV79PJFg_n0OCrCnhkWdMGO9-q50mpc</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DEV79PJFg_n0OCrCnhkWdMGO9-q50mpc" length="5385312" type="audio/mpeg"/>
+      <itunes:duration>00:22:26</itunes:duration>
+      <itunes:title>Killing Giants</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลามองไปที่ตลาดที่ตัวเองยืนอยู่ แล้วเห็นเจ้าใหญ่ขวางอยู่ตรงกลาง งบหนากว่า คนเยอะกว่า ชื่อก็อยู่มาก่อนเป็นสิบปี แล้วแอบคิดในใจว่าจะสู้ยังไงไหว วันนี้จะเล่าหนังสือชื่อ Killing Giants ของ Stephen Denny ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2014/12/killing-giants.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>It Doesn’t Have to Be Crazy at Work</title>
       <description>หกโมงเย็นแล้ว กำลังจะปิดคอมกลับบ้าน แล้วเพิ่งนึกได้ว่าทั้งวันที่ผ่านมา งานชิ้นที่ตั้งใจจะทำจริง ๆ ยังไม่ได้แตะเลยสักนิด ประชุมสามรอบ แชทเด้งทั้งวัน สุดท้ายงานจริงต้องยกไปทำตอนกลางคืน เคยเป็นแบบนี้ไหมครับ</description>
