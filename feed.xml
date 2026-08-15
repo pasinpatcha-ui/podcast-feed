@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 21:33:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:48:24 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>On the Clock</title>
+      <description>เคยสั่งของออนไลน์ตอนดึก แล้วรุ่งขึ้นกล่องมาวางอยู่หน้าบ้านไหมครับ สะดวกจนแทบไม่ทันคิดว่าตอนนั้นมีคนคนหนึ่งกำลังเดินหาของชิ้นนั้นอยู่ในโกดัง โดยมีเครื่องสแกนในมือคอยจับเวลาอยู่ทุกวินาที</description>
+      <link>https://bobbypowers.com/review-on-the-clock/</link>
+      <pubDate>Sat, 15 Aug 2026 21:48:24 GMT</pubDate>
+      <guid isPermaLink="false">1UjktGvODvJKvVHMgKaBPiKrV22l7IBTZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UjktGvODvJKvVHMgKaBPiKrV22l7IBTZ" length="5901120" type="audio/mpeg"/>
+      <itunes:duration>00:24:35</itunes:duration>
+      <itunes:title>On the Clock</itunes:title>
+      <itunes:summary>เคยสั่งของออนไลน์ตอนดึก แล้วรุ่งขึ้นกล่องมาวางอยู่หน้าบ้านไหมครับ สะดวกจนแทบไม่ทันคิดว่าตอนนั้นมีคนคนหนึ่งกำลังเดินหาของชิ้นนั้นอยู่ในโกดัง โดยมีเครื่องสแกนในมือคอยจับเวลาอยู่ทุกวินาที</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2019/08/On-the-Clock-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>No Rules Rules</title>
       <description>เคยไหมครับ เวลาจะลาพักร้อนสักสามวัน ต้องกรอกใบ ต้องรอหัวหน้าเซ็น แล้วก็ยังต้องมานั่งอธิบายว่าทำไมถึงจะไป ทั้งที่งานก็ส่งครบหมดแล้ว หรือซื้อของใช้ในออฟฟิศชิ้นเดียว แต่ต้องแนบใบเสร็จผ่านการอนุมัติสามชั้น</description>
