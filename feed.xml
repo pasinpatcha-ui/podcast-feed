@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 13:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:44:10 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Amp It Up</title>
+      <description>เคยไหมครับ ประชุมวางแผนกันทั้งวัน สไลด์สวย กลยุทธ์ฟังดูดีไปหมด แต่ผ่านไปสามเดือนกลับไม่มีอะไรขยับจริงสักอย่าง ทุกคนยุ่งมาก แต่ทั้งองค์กรเหมือนเดินอยู่กับที่</description>
+      <link>https://bobbypowers.com/summary-amp-it-up/</link>
+      <pubDate>Sat, 15 Aug 2026 13:44:10 GMT</pubDate>
+      <guid isPermaLink="false">1LPinx_0vCWKhFYNzL0opGVXermsgjbyj</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LPinx_0vCWKhFYNzL0opGVXermsgjbyj" length="5677536" type="audio/mpeg"/>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:title>Amp It Up</itunes:title>
+      <itunes:summary>เคยไหมครับ ประชุมวางแผนกันทั้งวัน สไลด์สวย กลยุทธ์ฟังดูดีไปหมด แต่ผ่านไปสามเดือนกลับไม่มีอะไรขยับจริงสักอย่าง ทุกคนยุ่งมาก แต่ทั้งองค์กรเหมือนเดินอยู่กับที่</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/08/Amp-It-Up-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>All the Devils Are Here</title>
       <description>เคยได้ยินประโยคที่ว่า &quot;ไม่มีใครคาดคิดว่ามันจะเกิด&quot; ไหมครับ ทุกครั้งที่วิกฤตใหญ่ ๆ ผ่านพ้นไป ประโยคนี้จะโผล่ขึ้นมาเสมอ เหมือนเป็นคำอธิบายที่ทุกคนยอมรับได้ง่ายที่สุด และเป็นคำอธิบายที่ไม่ต้องโทษใครเลยสักคน</description>
