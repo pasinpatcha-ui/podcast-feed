@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 13:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:57:51 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>An Everyone Culture</title>
+      <description>เคยไหมครับ นั่งอยู่ในที่ประชุม มีคำถามหนึ่งที่อยากถามมาก แต่ไม่กล้าถาม เพราะกลัวคนอื่นจะรู้ว่ายังไม่เข้าใจเรื่องนี้จริง ๆ สุดท้ายก็พยักหน้าตามไป แล้วค่อยกลับไปแอบหาข้อมูลเองทีหลัง</description>
+      <link>https://bobbypowers.com/review-an-everyone-culture/</link>
+      <pubDate>Sat, 15 Aug 2026 13:57:51 GMT</pubDate>
+      <guid isPermaLink="false">1NR9ld7SlH6RMW_cxhSEjNRNy2poZnH3V</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NR9ld7SlH6RMW_cxhSEjNRNy2poZnH3V" length="5504160" type="audio/mpeg"/>
+      <itunes:duration>00:22:56</itunes:duration>
+      <itunes:title>An Everyone Culture</itunes:title>
+      <itunes:summary>เคยไหมครับ นั่งอยู่ในที่ประชุม มีคำถามหนึ่งที่อยากถามมาก แต่ไม่กล้าถาม เพราะกลัวคนอื่นจะรู้ว่ายังไม่เข้าใจเรื่องนี้จริง ๆ สุดท้ายก็พยักหน้าตามไป แล้วค่อยกลับไปแอบหาข้อมูลเองทีหลัง</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2018/07/An-Everyone-Culture-Book-Review-1-e1607221093340.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Amp It Up</title>
       <description>เคยไหมครับ ประชุมวางแผนกันทั้งวัน สไลด์สวย กลยุทธ์ฟังดูดีไปหมด แต่ผ่านไปสามเดือนกลับไม่มีอะไรขยับจริงสักอย่าง ทุกคนยุ่งมาก แต่ทั้งองค์กรเหมือนเดินอยู่กับที่</description>
