@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 20:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:29:00 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Magic Words</title>
+      <description>เคยไหมครับ ส่งอีเมลไปฉบับหนึ่ง คิดมาอย่างดี เหตุผลครบ ข้อมูลแน่น แต่อีกฝ่ายเงียบ ไม่ตอบ ไม่ขยับ ทั้งที่ถ้าเปลี่ยนคำแค่สองสามคำ ผลอาจต่างไปเลย</description>
+      <link>https://bobbypowers.com/review-magic-words/</link>
+      <pubDate>Sat, 15 Aug 2026 20:29:00 GMT</pubDate>
+      <guid isPermaLink="false">1AQaQdFwzgE4KEOGKpC_aSdUYlMEVMPsK</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AQaQdFwzgE4KEOGKpC_aSdUYlMEVMPsK" length="5879520" type="audio/mpeg"/>
+      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:title>Magic Words</itunes:title>
+      <itunes:summary>เคยไหมครับ ส่งอีเมลไปฉบับหนึ่ง คิดมาอย่างดี เหตุผลครบ ข้อมูลแน่น แต่อีกฝ่ายเงียบ ไม่ตอบ ไม่ขยับ ทั้งที่ถ้าเปลี่ยนคำแค่สองสามคำ ผลอาจต่างไปเลย</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2024/04/Magic-Words-book-review-jpg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lean Learning</title>
       <description>เคยไหมครับ อยากเริ่มทำอะไรสักอย่าง สมมติว่าอยากเริ่มทำธุรกิจเล็ก ๆ สักอัน ก็เลยไปหาหนังสือมาสามเล่ม สมัครคอร์สอีกหนึ่งคอร์ส เซฟคลิปไว้ดูอีกยี่สิบคลิป แล้วผ่านไปสามเดือน กลับยังไม่ได้เริ่มอะไรเลยสักอย่าง</description>
