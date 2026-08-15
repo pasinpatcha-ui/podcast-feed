@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 01:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:34:16 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>คลื่นลูกที่สามแห่งยุคอินเทอร์เน็ต The Third Wave</title>
+      <description>ลองนึกดูสักนิดครับ ถ้าพรุ่งนี้ตื่นขึ้นมาแล้วอินเทอร์เน็ตดับทั้งประเทศไปหนึ่งวันเต็ม จะเหลืออะไรที่ยังทำได้บ้าง สั่งข้าวก็ไม่ได้ เรียกรถก็ไม่ได้ โอนเงินก็ไม่ได้ คำตอบที่ผุดขึ้นมาในหัวทันทีนั่นแหละ คือจุดที่หนังสือเล่มที่จะเล่าวันนี้พูดถึง</description>
+      <link>https://summaread.net/trend/the-third-wave/</link>
+      <pubDate>Sat, 15 Aug 2026 01:34:16 GMT</pubDate>
+      <guid isPermaLink="false">141FPqND1u44FqdpBTcuauKnvm3nMR6MK</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=141FPqND1u44FqdpBTcuauKnvm3nMR6MK" length="5195040" type="audio/mpeg"/>
+      <itunes:duration>00:21:39</itunes:duration>
+      <itunes:title>คลื่นลูกที่สามแห่งยุคอินเทอร์เน็ต The Third Wave</itunes:title>
+      <itunes:summary>ลองนึกดูสักนิดครับ ถ้าพรุ่งนี้ตื่นขึ้นมาแล้วอินเทอร์เน็ตดับทั้งประเทศไปหนึ่งวันเต็ม จะเหลืออะไรที่ยังทำได้บ้าง สั่งข้าวก็ไม่ได้ เรียกรถก็ไม่ได้ โอนเงินก็ไม่ได้ คำตอบที่ผุดขึ้นมาในหัวทันทีนั่นแหละ คือจุดที่หนังสือเล่มที่จะเล่าวันนี้พูดถึง</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/04/32256425_10156313850405987_5516883395767959552_n.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>คม CEO</title>
       <description>เคยสงสัยไหมครับ ว่าคนที่นั่งเก้าอี้สูงสุดขององค์กร เวลาเจอปัญหาที่ไม่มีใครตัดสินใจแทนได้ เขาคิดยังไง วันนี้จะเล่าหนังสือชื่อ คม CEO เขียนโดยคุณไอดิน ศรีเมือง จากสำนักพิมพ์แสงดาวครับ</description>
