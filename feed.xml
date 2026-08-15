@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 22:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:18:07 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Positioning</title>
+      <description>ถ้ามีคนถามตรง ๆ ว่าคุณต่างจากคนอื่นยังไง ตอบได้ทันทีในประโยคเดียวไหมครับ ส่วนใหญ่จะอึกอัก แล้วเริ่มร่ายยาวว่าทำนี่ก็ได้ ทำนั่นก็เป็น สุดท้ายคนฟังจำไม่ได้สักอย่าง</description>
+      <link>https://bobbypowers.com/review-positioning/</link>
+      <pubDate>Sat, 15 Aug 2026 22:18:07 GMT</pubDate>
+      <guid isPermaLink="false">1HKb2gRrGgKZVYSfExAFaMllsKBa0C3CZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HKb2gRrGgKZVYSfExAFaMllsKBa0C3CZ" length="5680704" type="audio/mpeg"/>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:title>Positioning</itunes:title>
+      <itunes:summary>ถ้ามีคนถามตรง ๆ ว่าคุณต่างจากคนอื่นยังไง ตอบได้ทันทีในประโยคเดียวไหมครับ ส่วนใหญ่จะอึกอัก แล้วเริ่มร่ายยาวว่าทำนี่ก็ได้ ทำนั่นก็เป็น สุดท้ายคนฟังจำไม่ได้สักอย่าง</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2024/09/Positioning-book-review-jpg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Originals</title>
       <description>เคยไหมครับ เวลานั่งอยู่ในที่ประชุม แล้วมีความคิดบางอย่างผุดขึ้นมาในหัว รู้ทั้งรู้ว่ามันน่าจะดีกว่าสิ่งที่ทุกคนกำลังคุยกันอยู่ แต่สุดท้ายก็เก็บเอาไว้เงียบ ๆ แล้วพยักหน้าตามไป</description>
