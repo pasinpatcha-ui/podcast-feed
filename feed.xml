@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 00:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:54:07 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>คเณิร์ตศาสตร์</title>
+      <description>เคยยกมือถามในห้องเรียนเลขไหมครับว่า เรียนไปทำไม แล้วได้คำตอบว่า เรียนไปเถอะ เดี๋ยวสอบออก คำถามนั้นค้างอยู่ในใจหลายคนมาจนโต บางคนอายุสามสิบกว่าแล้วก็ยังไม่รู้ว่าเมทริกซ์ ลอการิทึม แคลคูลัส ที่นั่งทำจนดึกดื่นสมัยมัธยม มันไปโผล่ตรงไหนของชีวิต</description>
+      <link>https://summaread.net/science/the-charm-of-mathematics/</link>
+      <pubDate>Sat, 15 Aug 2026 00:54:07 GMT</pubDate>
+      <guid isPermaLink="false">1l4hTqZEeJ5rKcrOt2vw-9Nu5bdg9xQ9f</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1l4hTqZEeJ5rKcrOt2vw-9Nu5bdg9xQ9f" length="4862400" type="audio/mpeg"/>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:title>คเณิร์ตศาสตร์</itunes:title>
+      <itunes:summary>เคยยกมือถามในห้องเรียนเลขไหมครับว่า เรียนไปทำไม แล้วได้คำตอบว่า เรียนไปเถอะ เดี๋ยวสอบออก คำถามนั้นค้างอยู่ในใจหลายคนมาจนโต บางคนอายุสามสิบกว่าแล้วก็ยังไม่รู้ว่าเมทริกซ์ ลอการิทึม แคลคูลัส ที่นั่งทำจนดึกดื่นสมัยมัธยม มันไปโผล่ตรงไหนของชีวิต</itunes:summary>
+      <itunes:image href="https://summaread.net/wp-content/uploads/2019/04/A9A4F212-2349-4804-95E6-B7D156FB2F51.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ไขปริศนาประเด็นอำพราง ในประวัติศาสตร์ไทย</title>
       <description>จำได้ไหมครับ ตอนเรียนประวัติศาสตร์ในห้อง ครูเล่าว่าสยามรอดจากการเป็นเมืองขึ้นมาได้อย่างหวุดหวิด เพราะอังกฤษกับฝรั่งเศสต่างก็อยากได้บ้านเรา แล้วเคยสงสัยต่อไหมว่า ทำไมเขาถึงอยากได้เมืองไทยกันนัก</description>
