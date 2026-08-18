@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 22:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:38:43 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Everything Store</title>
+      <description>เคยไหมครับ เวลากดสั่งของสักชิ้นตอนดึก แล้ววันรุ่งขึ้นกล่องพัสดุก็มาวางอยู่หน้าบ้านแล้ว จนแทบไม่ทันได้สงสัยว่าเบื้องหลังของความง่ายขนาดนั้นมีใครคิดอะไรไว้บ้าง วันนี้จะเล่าหนังสือชื่อ The Everything Store เขียนโดย Brad Stone นักข่าวที่ตามเจาะเรื่องราวของ Amazon ตั้งแต่วันเริ่มต้น</description>
+      <link>https://bobbypowers.com/review-the-everything-store/</link>
+      <pubDate>Tue, 18 Aug 2026 22:38:43 GMT</pubDate>
+      <guid isPermaLink="false">1kjU2kUCAHYCYCnHCctAMi6RX8bJkoQMA</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kjU2kUCAHYCYCnHCctAMi6RX8bJkoQMA" length="5687520" type="audio/mpeg"/>
+      <itunes:duration>00:23:42</itunes:duration>
+      <itunes:title>The Everything Store</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลากดสั่งของสักชิ้นตอนดึก แล้ววันรุ่งขึ้นกล่องพัสดุก็มาวางอยู่หน้าบ้านแล้ว จนแทบไม่ทันได้สงสัยว่าเบื้องหลังของความง่ายขนาดนั้นมีใครคิดอะไรไว้บ้าง วันนี้จะเล่าหนังสือชื่อ The Everything Store เขียนโดย Brad Stone นักข่าวที่ตามเจาะเรื่องราวของ Amazon ตั้งแต่วันเริ่มต้น</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2017/09/The-Everything-Store-Book-Review-Jeff-Bezos-Brad-Stone-FULL.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Culture Map</title>
       <description>ประชุมกับทีมที่อยู่คนละประเทศ อธิบายจนจบ อีกฝั่งพยักหน้า บอกว่าเข้าใจแล้ว ไม่มีคำถาม ผ่านไปสองอาทิตย์ งานไม่ขยับสักนิด แล้วก็สรุปในใจไปเรียบร้อยว่า คนคนนี้คงไม่ค่อยรับผิดชอบ</description>
