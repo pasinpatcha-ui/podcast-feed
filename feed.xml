@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 23:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:19:05 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Happiness Advantage</title>
+      <description>เคยบอกตัวเองไหมครับว่า เดี๋ยวได้เลื่อนตำแหน่งก่อนค่อยมีความสุข เดี๋ยวผ่อนบ้านหมดก่อน เดี๋ยวโปรเจกต์นี้จบก่อน แล้วพอถึงวันนั้นจริง ๆ กลับมีเป้าหมายใหม่รออยู่ข้างหน้าอีกแล้ว ความสุขเลื่อนออกไปเรื่อย ๆ ไม่มีวันมาถึงสักที</description>
+      <link>https://bobbypowers.com/review-the-happiness-advantage/</link>
+      <pubDate>Tue, 18 Aug 2026 23:19:05 GMT</pubDate>
+      <guid isPermaLink="false">10zTnE8DMeAaAc0xu9wF8MB11lx8aUFMK</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10zTnE8DMeAaAc0xu9wF8MB11lx8aUFMK" length="5628768" type="audio/mpeg"/>
+      <itunes:duration>00:23:27</itunes:duration>
+      <itunes:title>The Happiness Advantage</itunes:title>
+      <itunes:summary>เคยบอกตัวเองไหมครับว่า เดี๋ยวได้เลื่อนตำแหน่งก่อนค่อยมีความสุข เดี๋ยวผ่อนบ้านหมดก่อน เดี๋ยวโปรเจกต์นี้จบก่อน แล้วพอถึงวันนั้นจริง ๆ กลับมีเป้าหมายใหม่รออยู่ข้างหน้าอีกแล้ว ความสุขเลื่อนออกไปเรื่อย ๆ ไม่มีวันมาถึงสักที</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2023/09/The-Happiness-Advantage-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Five Temptations of a CEO</title>
       <description>วันที่ดีที่สุดในชีวิตการทำงานคือวันไหนครับ ลองนึกเร็ว ๆ ไม่ต้องคิดนาน ถ้าภาพที่โผล่ขึ้นมาคือวันที่ได้เลื่อนตำแหน่ง หรือวันที่ได้ขึ้นเงินเดือน เก็บคำตอบนั้นไว้ก่อน เดี๋ยวจะได้รู้ว่ามันบอกอะไรเกี่ยวกับตัวเรา</description>
