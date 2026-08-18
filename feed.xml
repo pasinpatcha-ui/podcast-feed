@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 21:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:43:20 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Almanack of Naval Ravikant</title>
+      <description>ถ้าพรุ่งนี้ตื่นขึ้นมาแล้วเงินในบัญชีหายไปหมด งานก็ไม่เหลือ ชื่อเสียงก็ไม่เหลือ ถูกวางทิ้งไว้กลางถนนสักเส้นในเมืองที่ไม่รู้จักใครเลย จะใช้เวลานานแค่ไหนกว่าจะกลับมายืนได้เหมือนเดิม หรือจะไม่มีวันกลับมาได้อีกเลยครับ</description>
+      <link>https://bobbypowers.com/review-the-almanack-of-naval-ravikant/</link>
+      <pubDate>Tue, 18 Aug 2026 21:43:20 GMT</pubDate>
+      <guid isPermaLink="false">1lLamTIVRHNz52PGe6ZdtfA0121FA3jPe</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lLamTIVRHNz52PGe6ZdtfA0121FA3jPe" length="6145344" type="audio/mpeg"/>
+      <itunes:duration>00:25:36</itunes:duration>
+      <itunes:title>The Almanack of Naval Ravikant</itunes:title>
+      <itunes:summary>ถ้าพรุ่งนี้ตื่นขึ้นมาแล้วเงินในบัญชีหายไปหมด งานก็ไม่เหลือ ชื่อเสียงก็ไม่เหลือ ถูกวางทิ้งไว้กลางถนนสักเส้นในเมืองที่ไม่รู้จักใครเลย จะใช้เวลานานแค่ไหนกว่าจะกลับมายืนได้เหมือนเดิม หรือจะไม่มีวันกลับมาได้อีกเลยครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2023/11/The-Almanack-of-Naval-Ravikant-book-review-jpeg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI-Driven Leader</title>
       <description>เคยไหมครับ เปิด AI ขึ้นมาแล้วให้มันช่วยร่างอีเมล ช่วยสรุปรายงาน ช่วยเกลาข้อความให้ฟังดูดีขึ้น แล้วก็ปิดไป รู้สึกว่ามันก็โอเคนะ ประหยัดเวลาได้จริง แต่พอมองย้อนไปทั้งเดือน ก็ไม่ได้รู้สึกว่าอะไรเปลี่ยนไปจริงจัง วันนี้จะเล่าหนังสือชื่อ The AI-Driven Leader ของ Geoff Woods ครับ</description>
