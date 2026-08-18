@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 21:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:55:52 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Coaching Habit</title>
+      <description>ลูกน้องเดินเข้ามาเล่าปัญหา ยังไม่ทันจบประโยคที่สาม ปากก็ชิงพูดออกไปแล้วว่า พี่ว่าลองทำแบบนี้สิ แล้วบทสนทนาก็จบลงตรงนั้น เคยเป็นแบบนี้ไหมครับ</description>
+      <link>https://bobbypowers.com/review-the-coaching-habit/</link>
+      <pubDate>Tue, 18 Aug 2026 21:55:52 GMT</pubDate>
+      <guid isPermaLink="false">1x2nQRJsfnYDzl9iDes_A75wm5YhYOoPh</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1x2nQRJsfnYDzl9iDes_A75wm5YhYOoPh" length="4844448" type="audio/mpeg"/>
+      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:title>The Coaching Habit</itunes:title>
+      <itunes:summary>ลูกน้องเดินเข้ามาเล่าปัญหา ยังไม่ทันจบประโยคที่สาม ปากก็ชิงพูดออกไปแล้วว่า พี่ว่าลองทำแบบนี้สิ แล้วบทสนทนาก็จบลงตรงนั้น เคยเป็นแบบนี้ไหมครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2020/05/The-Coaching-Habit-Book-Review-Michael-Bungay-Stanier-e1599020245746.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Almanack of Naval Ravikant</title>
       <description>ถ้าพรุ่งนี้ตื่นขึ้นมาแล้วเงินในบัญชีหายไปหมด งานก็ไม่เหลือ ชื่อเสียงก็ไม่เหลือ ถูกวางทิ้งไว้กลางถนนสักเส้นในเมืองที่ไม่รู้จักใครเลย จะใช้เวลานานแค่ไหนกว่าจะกลับมายืนได้เหมือนเดิม หรือจะไม่มีวันกลับมาได้อีกเลยครับ</description>
