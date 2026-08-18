@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 19:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:49:51 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Storyworthy</title>
+      <description>เคยไหมครับ เวลามีคนถามว่าวันนี้เป็นยังไงบ้าง แล้วได้ยินตัวเองตอบออกไปว่า ก็เรื่อย ๆ ไม่มีอะไร ทั้งที่วันนั้นผ่านมาแล้วตั้งสิบกว่าชั่วโมง วันนี้อยากเล่าหนังสือชื่อ Storyworthy ของ Matthew Dicks ครับ</description>
+      <link>https://bobbypowers.com/summary-storyworthy/</link>
+      <pubDate>Tue, 18 Aug 2026 19:49:51 GMT</pubDate>
+      <guid isPermaLink="false">1fCvY1ot1JdVICzDfYXsuHmCXBrnDWjtX</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fCvY1ot1JdVICzDfYXsuHmCXBrnDWjtX" length="5998752" type="audio/mpeg"/>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:title>Storyworthy</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลามีคนถามว่าวันนี้เป็นยังไงบ้าง แล้วได้ยินตัวเองตอบออกไปว่า ก็เรื่อย ๆ ไม่มีอะไร ทั้งที่วันนั้นผ่านมาแล้วตั้งสิบกว่าชั่วโมง วันนี้อยากเล่าหนังสือชื่อ Storyworthy ของ Matthew Dicks ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2026/04/Storyworthy-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Steve Jobs in Exile</title>
       <description>ในหนังสือเล่าว่า มีคืนหนึ่งชายอายุสามสิบนั่งคุยเรื่องอนาคตกับเพื่อนร่วมงานไม่กี่คน แล้วพูดออกมาดัง ๆ ว่าสงสัยตัวเองจะหมดสภาพไปแล้ว เป็นของปลอม เป็นคนที่วิสัยทัศน์หมดอายุไปตั้งแต่เมื่อวาน แล้วถามต่อว่าชีวิตที่เหลือจะต้องเดินเตร็ดเตร่ไปเรื่อย ๆ แบบไร้จุดหมายหรือเปล่า คนคนนั้นคือ Steve Jobs ครับ</description>
