@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 19:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:04:39 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Straight Talk for Startups</title>
+      <description>ระดมทุนก้อนใหญ่ได้ ทีมขยาย ออฟฟิศใหม่ ทุกอย่างดูเหมือนกำลังไปได้สวย แล้วอีกสองปีบริษัทก็เงียบหายไปเฉย ๆ เคยสงสัยไหมครับว่าเกิดอะไรขึ้นตรงกลางระหว่างนั้น</description>
+      <link>https://bobbypowers.com/review-straight-talk-for-startups/</link>
+      <pubDate>Tue, 18 Aug 2026 20:04:39 GMT</pubDate>
+      <guid isPermaLink="false">1CEUW9r2HXxsDte7DOZ76ZdoD-kX0H8te</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CEUW9r2HXxsDte7DOZ76ZdoD-kX0H8te" length="5816448" type="audio/mpeg"/>
+      <itunes:duration>00:24:14</itunes:duration>
+      <itunes:title>Straight Talk for Startups</itunes:title>
+      <itunes:summary>ระดมทุนก้อนใหญ่ได้ ทีมขยาย ออฟฟิศใหม่ ทุกอย่างดูเหมือนกำลังไปได้สวย แล้วอีกสองปีบริษัทก็เงียบหายไปเฉย ๆ เคยสงสัยไหมครับว่าเกิดอะไรขึ้นตรงกลางระหว่างนั้น</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2018/05/Straight-Talk-for-Startups-Komisar-Reigersman-Business-Book-Reviewer.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Storyworthy</title>
       <description>เคยไหมครับ เวลามีคนถามว่าวันนี้เป็นยังไงบ้าง แล้วได้ยินตัวเองตอบออกไปว่า ก็เรื่อย ๆ ไม่มีอะไร ทั้งที่วันนั้นผ่านมาแล้วตั้งสิบกว่าชั่วโมง วันนี้อยากเล่าหนังสือชื่อ Storyworthy ของ Matthew Dicks ครับ</description>
