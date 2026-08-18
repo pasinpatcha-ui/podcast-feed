@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 19:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:35:35 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Steve Jobs in Exile</title>
+      <description>ในหนังสือเล่าว่า มีคืนหนึ่งชายอายุสามสิบนั่งคุยเรื่องอนาคตกับเพื่อนร่วมงานไม่กี่คน แล้วพูดออกมาดัง ๆ ว่าสงสัยตัวเองจะหมดสภาพไปแล้ว เป็นของปลอม เป็นคนที่วิสัยทัศน์หมดอายุไปตั้งแต่เมื่อวาน แล้วถามต่อว่าชีวิตที่เหลือจะต้องเดินเตร็ดเตร่ไปเรื่อย ๆ แบบไร้จุดหมายหรือเปล่า คนคนนั้นคือ Steve Jobs ครับ</description>
+      <link>https://bobbypowers.com/summary-steve-jobs-in-exile/</link>
+      <pubDate>Tue, 18 Aug 2026 19:35:35 GMT</pubDate>
+      <guid isPermaLink="false">1VXpcMSCLLoTnAYZ3oBgIvcNnWjA22Tni</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VXpcMSCLLoTnAYZ3oBgIvcNnWjA22Tni" length="5581824" type="audio/mpeg"/>
+      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:title>Steve Jobs in Exile</itunes:title>
+      <itunes:summary>ในหนังสือเล่าว่า มีคืนหนึ่งชายอายุสามสิบนั่งคุยเรื่องอนาคตกับเพื่อนร่วมงานไม่กี่คน แล้วพูดออกมาดัง ๆ ว่าสงสัยตัวเองจะหมดสภาพไปแล้ว เป็นของปลอม เป็นคนที่วิสัยทัศน์หมดอายุไปตั้งแต่เมื่อวาน แล้วถามต่อว่าชีวิตที่เหลือจะต้องเดินเตร็ดเตร่ไปเรื่อย ๆ แบบไร้จุดหมายหรือเปล่า คนคนนั้นคือ Steve Jobs ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2026/05/Steve-Jobs-in-Exile-book-summary.jpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Slow Productivity</title>
       <description>จบวันมาแล้วเหนื่อยจนพูดไม่ออก ตอบแชทไปไม่รู้กี่ร้อยข้อความ ประชุมไปห้ารอบ แต่พอถามตัวเองว่าตกลงวันนี้ทำอะไรเสร็จไปบ้าง กลับนึกไม่ออกสักอย่าง เคยเป็นแบบนี้ไหมครับ</description>
