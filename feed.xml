@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 18:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:06:19 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Shift Ahead</title>
+      <description>เคยไหมครับ เวลาทำอะไรสักอย่างได้ดีมาตลอดหลายปี แล้ววันหนึ่งเริ่มรู้สึกว่าสูตรเดิมมันชักจะไม่เวิร์ก แต่ก็ยังไม่กล้าเปลี่ยน เพราะสิ่งนั้นแหละคือสิ่งที่เลี้ยงมาทั้งชีวิต</description>
+      <link>https://bobbypowers.com/review-shift-ahead/</link>
+      <pubDate>Tue, 18 Aug 2026 19:06:19 GMT</pubDate>
+      <guid isPermaLink="false">1TerNtPyIOQRF7Km7u3dQuvTCpTi7YD28</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TerNtPyIOQRF7Km7u3dQuvTCpTi7YD28" length="5655744" type="audio/mpeg"/>
+      <itunes:duration>00:23:34</itunes:duration>
+      <itunes:title>Shift Ahead</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาทำอะไรสักอย่างได้ดีมาตลอดหลายปี แล้ววันหนึ่งเริ่มรู้สึกว่าสูตรเดิมมันชักจะไม่เวิร์ก แต่ก็ยังไม่กล้าเปลี่ยน เพราะสิ่งนั้นแหละคือสิ่งที่เลี้ยงมาทั้งชีวิต</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2019/01/Shift-Ahead-Allen-Adamson-Joel-Steckel-Business-Book-Reviewer.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Serve to Sell</title>
       <description>เคยไหมครับ นัดคุยกับลูกค้าไว้ แล้วพอถึงเวลาจริงกลับเกร็งตั้งแต่ยังไม่ทันเปิดกล้อง ในหัวมีแต่คำถามเดียววนอยู่ว่าจะพูดยังไงให้เขาซื้อ พอวางสายก็รู้สึกเหมือนเพิ่งไปขออะไรเขามา มากกว่าจะได้ให้อะไรเขาไป</description>
