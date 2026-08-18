@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 23:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:33:41 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Let Them Theory</title>
+      <description>เคยไหมครับ ตื่นเช้ามาอารมณ์ดีอยู่ ๆ พอเปิดแชทเจอข้อความห้วน ๆ จากใครสักคน แล้ววันนั้นก็เสียไปทั้งวัน ทั้งที่ยังไม่มีอะไรเกิดขึ้นจริง ๆ สักอย่าง</description>
+      <link>https://bobbypowers.com/summary-the-let-them-theory/</link>
+      <pubDate>Tue, 18 Aug 2026 23:33:41 GMT</pubDate>
+      <guid isPermaLink="false">1himLjV9tSUjGvahprI9SY3F4BDkVPeHZ</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1himLjV9tSUjGvahprI9SY3F4BDkVPeHZ" length="5968800" type="audio/mpeg"/>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:title>The Let Them Theory</itunes:title>
+      <itunes:summary>เคยไหมครับ ตื่นเช้ามาอารมณ์ดีอยู่ ๆ พอเปิดแชทเจอข้อความห้วน ๆ จากใครสักคน แล้ววันนั้นก็เสียไปทั้งวัน ทั้งที่ยังไม่มีอะไรเกิดขึ้นจริง ๆ สักอย่าง</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/08/The-Let-Them-Theory-Mel-Robbins.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Happiness Advantage</title>
       <description>เคยบอกตัวเองไหมครับว่า เดี๋ยวได้เลื่อนตำแหน่งก่อนค่อยมีความสุข เดี๋ยวผ่อนบ้านหมดก่อน เดี๋ยวโปรเจกต์นี้จบก่อน แล้วพอถึงวันนั้นจริง ๆ กลับมีเป้าหมายใหม่รออยู่ข้างหน้าอีกแล้ว ความสุขเลื่อนออกไปเรื่อย ๆ ไม่มีวันมาถึงสักที</description>
