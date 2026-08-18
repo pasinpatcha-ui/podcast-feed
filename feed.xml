@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 19:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:20:38 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Slow Productivity</title>
+      <description>จบวันมาแล้วเหนื่อยจนพูดไม่ออก ตอบแชทไปไม่รู้กี่ร้อยข้อความ ประชุมไปห้ารอบ แต่พอถามตัวเองว่าตกลงวันนี้ทำอะไรเสร็จไปบ้าง กลับนึกไม่ออกสักอย่าง เคยเป็นแบบนี้ไหมครับ</description>
+      <link>https://bobbypowers.com/review-slow-productivity/</link>
+      <pubDate>Tue, 18 Aug 2026 19:20:38 GMT</pubDate>
+      <guid isPermaLink="false">1bbUunX_S7jJM12qCZazPWT4Nxy-4BWlR</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bbUunX_S7jJM12qCZazPWT4Nxy-4BWlR" length="6148512" type="audio/mpeg"/>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:title>Slow Productivity</itunes:title>
+      <itunes:summary>จบวันมาแล้วเหนื่อยจนพูดไม่ออก ตอบแชทไปไม่รู้กี่ร้อยข้อความ ประชุมไปห้ารอบ แต่พอถามตัวเองว่าตกลงวันนี้ทำอะไรเสร็จไปบ้าง กลับนึกไม่ออกสักอย่าง เคยเป็นแบบนี้ไหมครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2024/03/Slow-Productivity-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Shift Ahead</title>
       <description>เคยไหมครับ เวลาทำอะไรสักอย่างได้ดีมาตลอดหลายปี แล้ววันหนึ่งเริ่มรู้สึกว่าสูตรเดิมมันชักจะไม่เวิร์ก แต่ก็ยังไม่กล้าเปลี่ยน เพราะสิ่งนั้นแหละคือสิ่งที่เลี้ยงมาทั้งชีวิต</description>
