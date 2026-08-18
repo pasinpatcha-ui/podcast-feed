@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 22:52:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:05:18 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Five Temptations of a CEO</title>
+      <description>วันที่ดีที่สุดในชีวิตการทำงานคือวันไหนครับ ลองนึกเร็ว ๆ ไม่ต้องคิดนาน ถ้าภาพที่โผล่ขึ้นมาคือวันที่ได้เลื่อนตำแหน่ง หรือวันที่ได้ขึ้นเงินเดือน เก็บคำตอบนั้นไว้ก่อน เดี๋ยวจะได้รู้ว่ามันบอกอะไรเกี่ยวกับตัวเรา</description>
+      <link>https://bobbypowers.com/the-five-temptations-of-a-ceo/</link>
+      <pubDate>Tue, 18 Aug 2026 23:05:18 GMT</pubDate>
+      <guid isPermaLink="false">1jhVbLSjNrUiwMjralJQlbs0fQLoLAZKn</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jhVbLSjNrUiwMjralJQlbs0fQLoLAZKn" length="4975680" type="audio/mpeg"/>
+      <itunes:duration>00:20:44</itunes:duration>
+      <itunes:title>The Five Temptations of a CEO</itunes:title>
+      <itunes:summary>วันที่ดีที่สุดในชีวิตการทำงานคือวันไหนครับ ลองนึกเร็ว ๆ ไม่ต้องคิดนาน ถ้าภาพที่โผล่ขึ้นมาคือวันที่ได้เลื่อนตำแหน่ง หรือวันที่ได้ขึ้นเงินเดือน เก็บคำตอบนั้นไว้ก่อน เดี๋ยวจะได้รู้ว่ามันบอกอะไรเกี่ยวกับตัวเรา</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2014/11/the-five-temptations-of-a-ceo.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Fearless Organization</title>
       <description>นั่งอยู่ในห้องประชุม หัวหน้าเสนอแผนขึ้นมาแผนหนึ่ง แล้วถามว่ามีใครเห็นต่างไหม ในใจรู้อยู่เต็มอกว่าแผนนี้มันมีรูโหว่ตรงไหน แต่สุดท้ายก็พยักหน้าตามคนอื่นไปเงียบ ๆ เคยไหมครับ</description>
