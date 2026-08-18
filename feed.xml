@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 22:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:52:40 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Fearless Organization</title>
+      <description>นั่งอยู่ในห้องประชุม หัวหน้าเสนอแผนขึ้นมาแผนหนึ่ง แล้วถามว่ามีใครเห็นต่างไหม ในใจรู้อยู่เต็มอกว่าแผนนี้มันมีรูโหว่ตรงไหน แต่สุดท้ายก็พยักหน้าตามคนอื่นไปเงียบ ๆ เคยไหมครับ</description>
+      <link>https://bobbypowers.com/book-review-the-fearless-organization/</link>
+      <pubDate>Tue, 18 Aug 2026 22:52:40 GMT</pubDate>
+      <guid isPermaLink="false">1ojvUAcPGqvvp_uWkttiINZY5FuDu9kiP</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ojvUAcPGqvvp_uWkttiINZY5FuDu9kiP" length="5744160" type="audio/mpeg"/>
+      <itunes:duration>00:23:56</itunes:duration>
+      <itunes:title>The Fearless Organization</itunes:title>
+      <itunes:summary>นั่งอยู่ในห้องประชุม หัวหน้าเสนอแผนขึ้นมาแผนหนึ่ง แล้วถามว่ามีใครเห็นต่างไหม ในใจรู้อยู่เต็มอกว่าแผนนี้มันมีรูโหว่ตรงไหน แต่สุดท้ายก็พยักหน้าตามคนอื่นไปเงียบ ๆ เคยไหมครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2020/11/The-Fearless-Organization-Amy-Edmondson-1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Everything Store</title>
       <description>เคยไหมครับ เวลากดสั่งของสักชิ้นตอนดึก แล้ววันรุ่งขึ้นกล่องพัสดุก็มาวางอยู่หน้าบ้านแล้ว จนแทบไม่ทันได้สงสัยว่าเบื้องหลังของความง่ายขนาดนั้นมีใครคิดอะไรไว้บ้าง วันนี้จะเล่าหนังสือชื่อ The Everything Store เขียนโดย Brad Stone นักข่าวที่ตามเจาะเรื่องราวของ Amazon ตั้งแต่วันเริ่มต้น</description>
