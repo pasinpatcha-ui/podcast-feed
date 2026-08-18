@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 21:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:11:12 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Comfort Crisis</title>
+      <description>ตั้งแต่ตื่นนอนเมื่อเช้าจนถึงตอนนี้ มีช่วงไหนบ้างไหมครับที่รู้สึกไม่สบายตัวจริง ๆ หนาวจนต้องสั่น หิวจนท้องร้อง หรือเหนื่อยจนขาแทบไม่ไหว ถ้าคำตอบคือแทบไม่มีเลย วันนี้จะเล่าหนังสือชื่อ The Comfort Crisis ของ Michael Easter ครับ</description>
+      <link>https://bobbypowers.com/review-the-comfort-crisis/</link>
+      <pubDate>Tue, 18 Aug 2026 22:11:12 GMT</pubDate>
+      <guid isPermaLink="false">1mAJZT8EKRapAd3yhf1HlbnYj5m9jX704</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mAJZT8EKRapAd3yhf1HlbnYj5m9jX704" length="6430272" type="audio/mpeg"/>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:title>The Comfort Crisis</itunes:title>
+      <itunes:summary>ตั้งแต่ตื่นนอนเมื่อเช้าจนถึงตอนนี้ มีช่วงไหนบ้างไหมครับที่รู้สึกไม่สบายตัวจริง ๆ หนาวจนต้องสั่น หิวจนท้องร้อง หรือเหนื่อยจนขาแทบไม่ไหว ถ้าคำตอบคือแทบไม่มีเลย วันนี้จะเล่าหนังสือชื่อ The Comfort Crisis ของ Michael Easter ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2024/03/The-Comfort-Crisis-book-review-jpg.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Coaching Habit</title>
       <description>ลูกน้องเดินเข้ามาเล่าปัญหา ยังไม่ทันจบประโยคที่สาม ปากก็ชิงพูดออกไปแล้วว่า พี่ว่าลองทำแบบนี้สิ แล้วบทสนทนาก็จบลงตรงนั้น เคยเป็นแบบนี้ไหมครับ</description>
