@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 18:39:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:52:30 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Serve to Sell</title>
+      <description>เคยไหมครับ นัดคุยกับลูกค้าไว้ แล้วพอถึงเวลาจริงกลับเกร็งตั้งแต่ยังไม่ทันเปิดกล้อง ในหัวมีแต่คำถามเดียววนอยู่ว่าจะพูดยังไงให้เขาซื้อ พอวางสายก็รู้สึกเหมือนเพิ่งไปขออะไรเขามา มากกว่าจะได้ให้อะไรเขาไป</description>
+      <link>https://bobbypowers.com/summary-serve-to-sell/</link>
+      <pubDate>Tue, 18 Aug 2026 18:52:30 GMT</pubDate>
+      <guid isPermaLink="false">1SJ4Dp8eCR7Tla5MGDSguLASE6pdzrdx5</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SJ4Dp8eCR7Tla5MGDSguLASE6pdzrdx5" length="5050848" type="audio/mpeg"/>
+      <itunes:duration>00:21:03</itunes:duration>
+      <itunes:title>Serve to Sell</itunes:title>
+      <itunes:summary>เคยไหมครับ นัดคุยกับลูกค้าไว้ แล้วพอถึงเวลาจริงกลับเกร็งตั้งแต่ยังไม่ทันเปิดกล้อง ในหัวมีแต่คำถามเดียววนอยู่ว่าจะพูดยังไงให้เขาซื้อ พอวางสายก็รู้สึกเหมือนเพิ่งไปขออะไรเขามา มากกว่าจะได้ให้อะไรเขาไป</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2026/07/Serve-to-Sell-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Servant Leadership in Action</title>
       <description>เคยไหมครับ ทำงานอยู่ในที่ที่ทุกคนทำตามกฎเป๊ะ ๆ ไม่ใช่เพราะเชื่อในกฎ แต่เพราะกลัวว่าถ้าพลาดแล้วจะโดน พอเกิดปัญหาขึ้นมาจริง ๆ สิ่งแรกที่คนทำก็คือหาทางกลบ ไม่ใช่หาทางแก้</description>
