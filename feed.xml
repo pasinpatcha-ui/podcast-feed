@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 15 Aug 2026 23:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:03:13 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Remote</title>
+      <description>ถ้ามีคนถามว่าเวลาต้องทำงานที่ใช้สมองจริง ๆ งานที่ต้องคิดยาว ๆ ห้ามใครมาขัด ไปนั่งทำที่ไหน คำตอบที่ผุดขึ้นในหัวคือที่ไหนครับ ร้านกาแฟ ที่บ้าน หรือดึก ๆ ตอนที่คนอื่นนอนหมดแล้ว น้อยคนมากที่จะตอบว่าออฟฟิศ</description>
+      <link>https://bobbypowers.com/review-remote/</link>
+      <pubDate>Tue, 18 Aug 2026 16:03:13 GMT</pubDate>
+      <guid isPermaLink="false">1cPcHXmib0OhQMkzu3ki_Dtf4N85Euxuk</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cPcHXmib0OhQMkzu3ki_Dtf4N85Euxuk" length="5523840" type="audio/mpeg"/>
+      <itunes:duration>00:23:01</itunes:duration>
+      <itunes:title>Remote</itunes:title>
+      <itunes:summary>ถ้ามีคนถามว่าเวลาต้องทำงานที่ใช้สมองจริง ๆ งานที่ต้องคิดยาว ๆ ห้ามใครมาขัด ไปนั่งทำที่ไหน คำตอบที่ผุดขึ้นในหัวคือที่ไหนครับ ร้านกาแฟ ที่บ้าน หรือดึก ๆ ตอนที่คนอื่นนอนหมดแล้ว น้อยคนมากที่จะตอบว่าออฟฟิศ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2020/07/Remote-Jason-Fried-David-Heinemeier-Hansson-Review-e1599020144270.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Recruit Rockstars</title>
       <description>เคยไหมครับ จ้างคนเข้ามาสักคน สัมภาษณ์ก็ดี เรซูเม่ก็สวย คุยกันแล้วรู้สึกว่าใช่เลย แต่ผ่านไปหกเดือนถึงเริ่มรู้ตัวว่าไม่ใช่ แล้วก็ต้องมานั่งย้อนถามตัวเองว่าตอนนั้นมองพลาดตรงไหน</description>
