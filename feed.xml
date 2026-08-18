@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 23:33:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:46:24 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Mom Test</title>
+      <description>เคยไหมครับ เล่าไอเดียที่คิดมาทั้งเดือนให้ใครสักคนฟัง แล้วเขาบอกว่าเจ๋งมาก น่าสนใจนะ ทำเลย กลับบ้านมาก็ยิ้ม รู้สึกว่ามาถูกทางแล้วแน่ ๆ แต่พอทำออกมาขายจริง กลับไม่มีใครควักเงินสักคน</description>
+      <link>https://bobbypowers.com/summary-the-mom-test/</link>
+      <pubDate>Tue, 18 Aug 2026 23:46:24 GMT</pubDate>
+      <guid isPermaLink="false">1PWifHb4AZDwwJllumGogGYb9gBubTDZL</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PWifHb4AZDwwJllumGogGYb9gBubTDZL" length="4850784" type="audio/mpeg"/>
+      <itunes:duration>00:20:13</itunes:duration>
+      <itunes:title>The Mom Test</itunes:title>
+      <itunes:summary>เคยไหมครับ เล่าไอเดียที่คิดมาทั้งเดือนให้ใครสักคนฟัง แล้วเขาบอกว่าเจ๋งมาก น่าสนใจนะ ทำเลย กลับบ้านมาก็ยิ้ม รู้สึกว่ามาถูกทางแล้วแน่ ๆ แต่พอทำออกมาขายจริง กลับไม่มีใครควักเงินสักคน</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2026/03/The-Mom-Test-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Let Them Theory</title>
       <description>เคยไหมครับ ตื่นเช้ามาอารมณ์ดีอยู่ ๆ พอเปิดแชทเจอข้อความห้วน ๆ จากใครสักคน แล้ววันนั้นก็เสียไปทั้งวัน ทั้งที่ยังไม่มีอะไรเกิดขึ้นจริง ๆ สักอย่าง</description>
