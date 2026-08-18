@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 18:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:39:18 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Servant Leadership in Action</title>
+      <description>เคยไหมครับ ทำงานอยู่ในที่ที่ทุกคนทำตามกฎเป๊ะ ๆ ไม่ใช่เพราะเชื่อในกฎ แต่เพราะกลัวว่าถ้าพลาดแล้วจะโดน พอเกิดปัญหาขึ้นมาจริง ๆ สิ่งแรกที่คนทำก็คือหาทางกลบ ไม่ใช่หาทางแก้</description>
+      <link>https://bobbypowers.com/review-servant-leadership-in-action/</link>
+      <pubDate>Tue, 18 Aug 2026 18:39:18 GMT</pubDate>
+      <guid isPermaLink="false">1bubgM07ud9-e9eRvlb1unY0ZmPeLmH59</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bubgM07ud9-e9eRvlb1unY0ZmPeLmH59" length="5530464" type="audio/mpeg"/>
+      <itunes:duration>00:23:03</itunes:duration>
+      <itunes:title>Servant Leadership in Action</itunes:title>
+      <itunes:summary>เคยไหมครับ ทำงานอยู่ในที่ที่ทุกคนทำตามกฎเป๊ะ ๆ ไม่ใช่เพราะเชื่อในกฎ แต่เพราะกลัวว่าถ้าพลาดแล้วจะโดน พอเกิดปัญหาขึ้นมาจริง ๆ สิ่งแรกที่คนทำก็คือหาทางกลบ ไม่ใช่หาทางแก้</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2018/03/Servant-Leadership-in-Action-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Same as Ever</title>
       <description>เคยไหมครับ ตื่นเช้ามาเปิดโทรศัพท์ เจอข่าวเทคโนโลยีใหม่ เจอข่าววิกฤตใหม่ แล้วก็แอบคิดในใจว่าอีกสิบปีข้างหน้าโลกจะหน้าตาเป็นยังไง แล้วต้องเตรียมตัวแบบไหนถึงจะไม่ตกขบวน</description>
