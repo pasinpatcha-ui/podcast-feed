@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 16:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:18:43 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Reset: How to Change What’s Not Working</title>
+      <description>เคยไหมครับ รู้ทั้งรู้ว่ามีบางอย่างในงานที่มันไม่เวิร์คมาเป็นปี ประชุมทีไรก็พูดเรื่องเดิม พอเดินออกจากห้องประชุมก็กลับไปทำแบบเดิมต่อ เหมือนติดอยู่ในร่องที่รู้ว่าเป็นร่อง แต่ปีนออกไม่ได้สักที</description>
+      <link>https://bobbypowers.com/review-reset/</link>
+      <pubDate>Tue, 18 Aug 2026 16:18:43 GMT</pubDate>
+      <guid isPermaLink="false">1CIxLYNv9M4yURJyppLQgDfxBN_yxfjUi</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CIxLYNv9M4yURJyppLQgDfxBN_yxfjUi" length="5727360" type="audio/mpeg"/>
+      <itunes:duration>00:23:52</itunes:duration>
+      <itunes:title>Reset: How to Change What’s Not Working</itunes:title>
+      <itunes:summary>เคยไหมครับ รู้ทั้งรู้ว่ามีบางอย่างในงานที่มันไม่เวิร์คมาเป็นปี ประชุมทีไรก็พูดเรื่องเดิม พอเดินออกจากห้องประชุมก็กลับไปทำแบบเดิมต่อ เหมือนติดอยู่ในร่องที่รู้ว่าเป็นร่อง แต่ปีนออกไม่ได้สักที</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/01/Reset-Dan-Heath-book-review.webp"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Remote</title>
       <description>ถ้ามีคนถามว่าเวลาต้องทำงานที่ใช้สมองจริง ๆ งานที่ต้องคิดยาว ๆ ห้ามใครมาขัด ไปนั่งทำที่ไหน คำตอบที่ผุดขึ้นในหัวคือที่ไหนครับ ร้านกาแฟ ที่บ้าน หรือดึก ๆ ตอนที่คนอื่นนอนหมดแล้ว น้อยคนมากที่จะตอบว่าออฟฟิศ</description>
