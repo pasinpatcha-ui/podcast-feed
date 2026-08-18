@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 20:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:19:46 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Supercommunicators</title>
+      <description>เคยไหมครับ เวลามีคนเดินมาเล่าปัญหาให้ฟัง แล้วรีบเสนอทางแก้ให้ทันที ปรากฏว่าอีกฝ่ายเงียบลง บทสนทนาที่ควรจะดีกลับจืดไปเฉย ๆ ทั้งที่ตั้งใจดีสุด ๆ</description>
+      <link>https://bobbypowers.com/summary-supercommunicators/</link>
+      <pubDate>Tue, 18 Aug 2026 20:19:46 GMT</pubDate>
+      <guid isPermaLink="false">1ZOx-WxV2GjSmRMB2bPhroNAHYf9h3S9-</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZOx-WxV2GjSmRMB2bPhroNAHYf9h3S9-" length="5649696" type="audio/mpeg"/>
+      <itunes:duration>00:23:32</itunes:duration>
+      <itunes:title>Supercommunicators</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลามีคนเดินมาเล่าปัญหาให้ฟัง แล้วรีบเสนอทางแก้ให้ทันที ปรากฏว่าอีกฝ่ายเงียบลง บทสนทนาที่ควรจะดีกลับจืดไปเฉย ๆ ทั้งที่ตั้งใจดีสุด ๆ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/05/Supercommunicators-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Straight Talk for Startups</title>
       <description>ระดมทุนก้อนใหญ่ได้ ทีมขยาย ออฟฟิศใหม่ ทุกอย่างดูเหมือนกำลังไปได้สวย แล้วอีกสองปีบริษัทก็เงียบหายไปเฉย ๆ เคยสงสัยไหมครับว่าเกิดอะไรขึ้นตรงกลางระหว่างนั้น</description>
