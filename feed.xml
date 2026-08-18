@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 20:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:34:15 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Talk Like TED</title>
+      <description>นึกภาพคนคนหนึ่งนั่งอยู่หน้าจอตอนเที่ยงคืน พรุ่งนี้ต้องขึ้นพูดหน้าห้อง สิ่งแรกที่ทำก็คือเปิด PowerPoint พิมพ์หัวข้อ แล้วไล่ bullet ลงมาทีละข้อจนเต็มสไลด์ พอถึงเวลาจริง คนฟังก้มดูมือถือกันหมดห้อง วันนี้จะเล่าเรื่อง Talk Like TED ของ Carmine Gallo ครับ</description>
+      <link>https://bobbypowers.com/review-talk-like-ted/</link>
+      <pubDate>Tue, 18 Aug 2026 20:34:15 GMT</pubDate>
+      <guid isPermaLink="false">1IsvZiVYKHYeKmusZmBeM613OtJWNWIGN</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IsvZiVYKHYeKmusZmBeM613OtJWNWIGN" length="5738880" type="audio/mpeg"/>
+      <itunes:duration>00:23:55</itunes:duration>
+      <itunes:title>Talk Like TED</itunes:title>
+      <itunes:summary>นึกภาพคนคนหนึ่งนั่งอยู่หน้าจอตอนเที่ยงคืน พรุ่งนี้ต้องขึ้นพูดหน้าห้อง สิ่งแรกที่ทำก็คือเปิด PowerPoint พิมพ์หัวข้อ แล้วไล่ bullet ลงมาทีละข้อจนเต็มสไลด์ พอถึงเวลาจริง คนฟังก้มดูมือถือกันหมดห้อง วันนี้จะเล่าเรื่อง Talk Like TED ของ Carmine Gallo ครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2023/10/Talk-Like-TED-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Supercommunicators</title>
       <description>เคยไหมครับ เวลามีคนเดินมาเล่าปัญหาให้ฟัง แล้วรีบเสนอทางแก้ให้ทันที ปรากฏว่าอีกฝ่ายเงียบลง บทสนทนาที่ควรจะดีกลับจืดไปเฉย ๆ ทั้งที่ตั้งใจดีสุด ๆ</description>
