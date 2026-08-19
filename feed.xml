@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 23:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:01:48 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>The Power of Beliefs</title>
+      <description>เคยไหมครับ เวลากำลังจะเริ่มทำอะไรสักอย่าง แล้วมีเสียงในหัวขึ้นมาก่อนเลยว่า ทำไปก็เท่านั้นแหละ เดี๋ยวก็เหมือนเดิม แล้วสุดท้ายมันก็เหมือนเดิมจริง ๆ</description>
+      <link>https://bobbypowers.com/summary-the-power-of-beliefs/</link>
+      <pubDate>Wed, 19 Aug 2026 00:01:48 GMT</pubDate>
+      <guid isPermaLink="false">1TjzO8VGmr09mqkB59391o9kaYfMgOonc</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TjzO8VGmr09mqkB59391o9kaYfMgOonc" length="6506016" type="audio/mpeg"/>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:title>The Power of Beliefs</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลากำลังจะเริ่มทำอะไรสักอย่าง แล้วมีเสียงในหัวขึ้นมาก่อนเลยว่า ทำไปก็เท่านั้นแหละ เดี๋ยวก็เหมือนเดิม แล้วสุดท้ายมันก็เหมือนเดิมจริง ๆ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2026/06/The-Power-of-Beliefs-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Mom Test</title>
       <description>เคยไหมครับ เล่าไอเดียที่คิดมาทั้งเดือนให้ใครสักคนฟัง แล้วเขาบอกว่าเจ๋งมาก น่าสนใจนะ ทำเลย กลับบ้านมาก็ยิ้ม รู้สึกว่ามาถูกทางแล้วแน่ ๆ แต่พอทำออกมาขายจริง กลับไม่มีใครควักเงินสักคน</description>
