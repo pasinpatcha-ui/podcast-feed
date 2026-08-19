@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 01:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:27:04 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Tiny Experiments</title>
+      <description>ลองนึกถึงตอนต้นปี ที่นั่งเขียนเป้าหมายลงสมุดอย่างตั้งใจ ปีนี้จะเปลี่ยนสายงาน จะเขียนหนังสือให้จบ จะวิ่งมาราธอน พอปลายปีเปิดหน้านั้นมาอ่านอีกที กลับรู้สึกเหมือนสอบตก ทั้งที่ปีนั้นก็ทำอะไรไปตั้งเยอะ เคยเป็นไหมครับ</description>
+      <link>https://bobbypowers.com/summary-tiny-experiments/</link>
+      <pubDate>Wed, 19 Aug 2026 01:27:04 GMT</pubDate>
+      <guid isPermaLink="false">16m-r3hHhcyThA5f8dMG0d2eTA_Wf63Q6</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16m-r3hHhcyThA5f8dMG0d2eTA_Wf63Q6" length="6184320" type="audio/mpeg"/>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:title>Tiny Experiments</itunes:title>
+      <itunes:summary>ลองนึกถึงตอนต้นปี ที่นั่งเขียนเป้าหมายลงสมุดอย่างตั้งใจ ปีนี้จะเปลี่ยนสายงาน จะเขียนหนังสือให้จบ จะวิ่งมาราธอน พอปลายปีเปิดหน้านั้นมาอ่านอีกที กลับรู้สึกเหมือนสอบตก ทั้งที่ปีนั้นก็ทำอะไรไปตั้งเยอะ เคยเป็นไหมครับ</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2025/07/Tiny-Experiments-book-summary.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Think Again</title>
       <description>เคยไหมครับ เวลาเถียงกับใครสักคน แล้วจับได้ว่าตัวเองไม่ได้ฟังเขาเลยสักคำ ใจมัวแต่เรียงประโยคถัดไปที่จะสวนกลับ พอเขาพูดจบปุ๊บก็ยิงทันที แล้ววงสนทนาวันนั้นก็จบลงโดยไม่มีใครเปลี่ยนใจสักคน</description>
