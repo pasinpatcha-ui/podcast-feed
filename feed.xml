@@ -8,12 +8,25 @@
     <language>th</language>
     <link>https://drive.google.com/drive/folders/1vuEywWhRZ1qEdVHnYD75g4se-BOe5aov</link>
     <atom:link href="https://pasinpatcha-ui.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 00:58:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:12:40 GMT</lastBuildDate>
     <generator>podcast-automation</generator>
     <itunes:author>สรุปหนังสือ</itunes:author>
     <itunes:summary>พอดแคสต์สรุปหนังสือภาษาไทย ตอนละหนึ่งเล่ม อ่านให้ฟังด้วยเสียงสังเคราะห์</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <item>
+      <title>Think Again</title>
+      <description>เคยไหมครับ เวลาเถียงกับใครสักคน แล้วจับได้ว่าตัวเองไม่ได้ฟังเขาเลยสักคำ ใจมัวแต่เรียงประโยคถัดไปที่จะสวนกลับ พอเขาพูดจบปุ๊บก็ยิงทันที แล้ววงสนทนาวันนั้นก็จบลงโดยไม่มีใครเปลี่ยนใจสักคน</description>
+      <link>https://bobbypowers.com/review-think-again/</link>
+      <pubDate>Wed, 19 Aug 2026 01:12:40 GMT</pubDate>
+      <guid isPermaLink="false">1bCa6THIQrid7HX-b1ua6Dwtlc3libjIo</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bCa6THIQrid7HX-b1ua6Dwtlc3libjIo" length="5567040" type="audio/mpeg"/>
+      <itunes:duration>00:23:12</itunes:duration>
+      <itunes:title>Think Again</itunes:title>
+      <itunes:summary>เคยไหมครับ เวลาเถียงกับใครสักคน แล้วจับได้ว่าตัวเองไม่ได้ฟังเขาเลยสักคำ ใจมัวแต่เรียงประโยคถัดไปที่จะสวนกลับ พอเขาพูดจบปุ๊บก็ยิงทันที แล้ววงสนทนาวันนั้นก็จบลงโดยไม่มีใครเปลี่ยนใจสักคน</itunes:summary>
+      <itunes:image href="https://bobbypowers.com/wp-content/uploads/2021/02/Think-Again-Adam-Grant-book-review.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Workshop Survival Guide</title>
       <description>เคยไหมครับ นั่งอยู่ในห้องอบรมตอนบ่ายสองโมง คนหน้าห้องก็ตั้งใจพูดดี สไลด์ก็เตรียมมาแน่น แต่แถวหลังเริ่มก้มดูมือถือ บางคนตาลอย บางคนแอบหาว เนื้อหาไม่ได้แย่เลยนะ แต่ห้องมันตายไปแล้ว</description>
